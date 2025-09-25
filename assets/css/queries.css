@@ -1,0 +1,1117 @@
+/*  ———————————————————————————————————————————————— Monitor grande ———————————————————————————————————————————————— */
+@media screen and (min-width: 1690px) {
+    body {
+        background-color: red;
+        background-image: none;
+    }
+
+    main {
+        background-color: blue;
+        width: 1590px;
+    }
+
+    .project-content {
+        width: calc(100% - 300px);
+        margin-left: 300px;
+        position: relative;
+    }
+
+    .project-description {
+        gap: 30px;
+    }
+
+    .sideMenuContainer {
+        left: -300px;
+    }
+
+    .both-headings>div>div {
+        width: calc(100% - 360px);
+        margin-left: 360px;
+    }
+
+    .introBlock {
+        width: 570px;
+    }
+
+    .project-overview {
+        gap: 30px;
+    }
+
+    .introImage {
+        height: auto;
+        width: calc(100% - 600px);
+    }
+
+    .six-collumn-content {
+        width: 100%;
+    }
+
+
+    .three-collumn-title,
+    .project-description h3 {
+        width: 270px;
+        z-index: 6;
+    }
+
+    .both-headings>div>div {
+        width: calc(100% - 300px);
+        margin-left: 300px;
+    }
+
+    .costBeta {
+        width: calc(100% - 300px);
+    }
+
+
+    .cardsContainer {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 60px;
+        row-gap: 60px;
+    }
+
+    .page-button-group {
+        gap: 60px;
+    }
+
+    .user-persona-categories {
+        grid-template-columns: 465px 465px;
+        gap: 60px;
+    }
+
+    .project-image-grid {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .artwork-image-grid {
+        column-count: 4;
+        gap: 60px;
+        row-gap: 30px;
+        break-inside: avoid;
+    }
+
+    .cvSection {
+        gap: 60px;
+    }
+
+    .cvContent,
+    .cvDescription2 {
+        width: 390px;
+    }
+
+    .cvContainer {
+        max-width: none;
+    }
+
+    .cvDescription {
+        width: 540px;
+    }
+
+    .descriptionBlock {
+        width: 600px;
+    }
+
+    .cvDate {
+        width: 180px;
+    }
+
+    .artwork-image-grid img {
+        margin-bottom: 60px;
+    }
+
+    .page-button-group {
+        margin-bottom: 80px;
+    }
+
+    .stickyTitle {
+        width: 240px;
+    }
+
+    .cvRow {
+        gap: 60px;
+    }
+
+    .four-collumn {
+        grid-template-columns: 90px 90px 90px 90px 90px 90px 90px 90px 90px 90px 90px;
+        gap: 60px;
+    }
+
+    .collumnA {
+        grid-column: 1 / span 3;
+    }
+
+    .collumnB {
+        grid-column: 5 / span 3;
+    }
+
+    .collumnC {
+        grid-column: 9 / span 3;
+    }
+
+    .two-collumn-right {
+        width: 990PX;
+    }
+
+    .four-collumn.aboutSkills {
+        margin-bottom: 180px;
+    }
+
+
+    .homepageCardContainer {
+
+        gap: 60px;
+    }
+
+    .homepageCard {
+        width: calc((1590px - 150px) / 4);
+    }
+
+    .card {
+        padding: 14px;
+        border-radius: 34px;
+    }
+
+    .footer {
+        padding: 60px;
+        width: 1590px;
+    }
+
+    .description-video {
+        height: 560px;
+    }
+
+    .imagesWrapper {
+        width: 990px;
+    }
+
+    .project-image-grid h2 {
+        width: 270px !important;
+    }
+
+    .sectionButton {
+        flex: 1 1 auto;
+    }
+}
+
+/*  ———————————————————————————————————————————————— Portáteis pequenos ———————————————————————————————————————————————— */
+@media screen and (max-width: 1279px) and (min-width: 1075px) {
+    body {
+        background-color: orange;
+        background-image: none;
+    }
+
+    .projectCard img {
+        height: 259px;
+    }
+
+    .footer {
+        width: calc(975px - 90px);
+    }
+
+    main {
+        width: 975px;
+    }
+
+    .project-content {
+        width: 750px;
+        margin-left: 220px;
+    }
+
+    .project-description {
+        width: 750px;
+    }
+
+    .sideMenuContainer {
+        left: -220px;
+    }
+
+    .both-headings>div>div {
+        width: calc(100% - 360px);
+        margin-left: 360px;
+    }
+
+    .introBlock {
+        width: 292px;
+    }
+
+    .project-overview {
+        gap: 30px;
+    }
+
+    .introImage {
+        height: fit-content;
+        width: 633px;
+    }
+
+    .six-collumn-content {
+        width: 100%;
+    }
+
+
+    .three-collumn-title,
+    .project-description h3 {
+        width: 270px;
+        z-index: 6;
+    }
+
+
+    .persona-card h3 {
+        width: 450px;
+        line-height: 35px;
+    }
+
+    .both-headings>div>div {
+        width: calc(100% - 300px);
+        margin-left: 300px;
+    }
+
+    .costBeta {
+        width: calc(100% - 300px);
+    }
+
+
+    .cardsContainer {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 60px;
+        row-gap: 60px;
+    }
+
+    .user-persona-container {
+        width: calc(100% - 300px);
+    }
+
+    .user-persona-categories {
+        display: block;
+    }
+
+    .user-persona-category {
+        margin-bottom: 40px;
+    }
+
+    .user-scenario-title span {
+        max-width: 330px;
+    }
+
+    .imagesWrapper {
+        width: 990px;
+    }
+
+    .three-collumn-title {
+        width: 270px !important;
+    }
+
+    .imagesWrapper {
+        width: 450px;
+        gap: 15px;
+    }
+
+    .buttonFlexCat3 {
+        flex: 1 1 40%;
+    }
+
+
+    .gridImage {
+        width: calc((100% - (15px * 1)) / 2);
+    }
+
+    .imagesWrapper {
+        margin-top: -15px;
+    }
+
+    .artwork-image-grid {
+        column-count: 2;
+    }
+
+    .cvSection {
+        gap: 50px;
+    }
+
+    .cvSection h2 {
+        width: 222px;
+    }
+
+    .cvContainer {
+        width: 725px;
+        max-width: none;
+    }
+
+    .cvContent {
+        width: 222px;
+    }
+
+
+    .cvDate {
+        width: 130px;
+    }
+
+    .cvDescription,
+    .cvDescription2 {
+        width: 313px;
+        color: white;
+    }
+
+}
+
+
+
+/*  ———————————————————————————————————————————————— Tablet grande ———————————————————————————————————————————————— */
+
+@media screen and (max-width: 1074px) and (min-width: 819px) {
+    body {
+        background-color: pink;
+        background-image: none;
+    }
+
+    .sideMenuContainer {
+        display: none;
+    }
+
+    main {
+        width: 770px;
+    }
+
+    .project-content {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .project-description {
+        /* flex-direction: column; */
+
+    }
+
+    .six-collumn-content,
+    .costBeta {
+        width: 100%;
+    }
+
+    .three-collumn-title {
+        position: static;
+        width: 205px;
+    }
+
+    .cardsContainer {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .artwork-image-grid {
+        column-count: 2;
+    }
+
+    .page-button-group {
+        gap: 30px;
+    }
+
+    .page-button-group .sectionButton {
+        padding: 15px;
+        font-size: 18px;
+    }
+
+    .cardsContainer {
+        gap: 30px;
+        row-gap: 30px;
+    }
+
+    .artwork-image-grid img {
+        border-radius: 30px;
+    }
+
+    .cvSection {
+        flex-direction: column;
+    }
+
+    .cvContainer {
+        max-width: none;
+        width: 770px;
+    }
+
+    .cvRow:last-of-type {
+        margin-bottom: 00px;
+        border: none;
+        margin-bottom: 60px;
+    }
+
+    .stickyTitle {
+        z-index: 6;
+        top: 30px;
+    }
+
+    .cvContent {
+        width: 250px;
+    }
+
+    .cvDescription {
+        width: 300px;
+    }
+
+    .cvDate {
+        width: 160px;
+    }
+
+    .four-collumn {
+        grid-template-columns: 59px 59px 59px 59px 59px 59px 59px 59px 59px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .footer {
+        width: 710px;
+        padding: 30px;
+        grid-template-columns: 60px auto 180px;
+    }
+
+    .project-description h3,
+    .three-collumn-title {
+        width: 205px;
+    }
+
+    .both-headings>div>div {
+        width: 680px;
+        width: calc(100% - 235px);
+        margin-left: 235px;
+    }
+
+    .user-persona-card h3 {
+        width: 100%;
+    }
+
+    .user-persona-container {
+        width: calc(100% - 235px);
+    }
+
+    .user-persona-categories {
+        grid-template-columns: 250px 250px;
+    }
+
+    .costBeta {
+        width: 530px;
+    }
+
+    .imagesWrapper {
+        gap: 15px;
+    }
+
+    .gridImage {
+        width: calc((100% - (15px * 1)) / 2);
+    }
+
+    .project-image-grid>.imagesWrapper {
+        margin-top: -15px;
+    }
+}
+
+
+/*  ———————————————————————————————————————————————— Tablet Pequeno & Telemóveis Grandes ———————————————————————————————————————————————— */
+@media screen and (max-width: 818px) and (min-width: 600px) {
+    body {
+        background-color: green;
+        background-image: none;
+    }
+
+    main {
+        width: calc(100% - 50px);
+    }
+
+    .project-overview {
+        flex-direction: column-reverse;
+    }
+
+    .introBlock {
+        column-count: 2;
+        row-gap: 50px;
+        width: 100%;
+        display: block;
+    }
+
+    .introSection {
+        margin-bottom: 50px;
+    }
+
+    .introImage {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .sideMenuContainer {
+        display: none;
+    }
+
+    .project-content {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .project-description {
+        flex-direction: column;
+    }
+
+    .six-collumn-content {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .project-description h3,
+    .three-collumn-title {
+        position: static;
+    }
+
+    .secondLineTitle {
+        margin-bottom: 15px;
+    }
+
+    .user-persona-container,
+    .three-collumn-title,
+    .costBeta,
+    .imagesWrapper {
+        width: 100%;
+    }
+
+    .user-persona-categories {
+        grid-template-columns: calc(50% - 15px) calc(50% - 15px);
+    }
+
+    .user-persona-container.persona-six-collumns {
+        margin-top: 0 !important;
+    }
+
+    .footer {
+        width: calc(100% - 120px);
+        padding: 30px;
+        display: flex;
+        flex-direction: unset;
+    }
+
+    #footer-group-1 {
+        width: 20%;
+    }
+
+    .project-intro {
+        margin-bottom: 100px;
+    }
+
+    .cardsContainer {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+        row-gap: 25px;
+    }
+
+    .page-button-group {
+        gap: 25px;
+    }
+
+    .artwork-image-grid {
+        column-count: 2;
+        gap: 25px;
+        row-gap: 25px;
+    }
+
+    .cvSection {
+        flex-direction: column;
+        margin-bottom: 150px;
+    }
+
+    .cvContainer {
+        max-width: none;
+        width: 100%;
+    }
+
+    .stickyTitle {
+        position: static;
+    }
+
+    .cvContent {
+        flex: 1 1 30%;
+    }
+
+    .cvDescription,
+    .descriptionBlock {
+        flex: 1 1 50%;
+    }
+
+    .cvDate {
+        flex: 1 1 20%;
+    }
+
+    .cvDescription {
+        width: 100%;
+    }
+
+    .four-collumn {
+        grid-template-columns: auto;
+    }
+
+    .collumnA {
+        grid-column: 1 / span 2;
+    }
+
+    .collumnB {
+        grid-column: 3 / span 2;
+    }
+
+    .collumnC {
+        grid-column: 5 / span 2;
+    }
+
+    .cardImg {
+        height: fit-content !important;
+    }
+
+    .projectCardInfo h2 {
+        font-size: 20px;
+    }
+
+    .projectCard p {
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+/*  ———————————————————————————————————————————————— MOBILE ———————————————————————————————————————————————— */
+@media screen and (max-width: 599px) {
+
+    body {
+        background-color: red;
+        background-image: none;
+    }
+
+    #main {
+        width: calc(100vw - 40px);
+    }
+
+    .sideMenuContainer {
+        display: none;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .project-intro h1 {
+        line-height: 40px;
+    }
+
+    .page-button-group .sectionButton {
+        font-size: 16px;
+    }
+
+    .projectCard h2 {
+        font-size: 22px;
+    }
+
+    .projectCard {
+        border-radius: 15px;
+    }
+
+    .projectCard img {
+        border-radius: 0 0 0 0px;
+    }
+
+    .projectCardInfo {
+        border-radius: 0 0 15px 15px;
+    }
+
+    .project-overview {
+        flex-direction: column-reverse;
+    }
+
+    .introBlock {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 40px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .introImage {
+        width: 100%;
+        height: auto;
+    }
+
+    .introSection:first-of-type {
+        grid-column: 1 / -1;
+    }
+
+    .project-content {
+        margin-left: 0;
+        width: 100%;
+    }
+
+
+    .project-description,
+    .project-description-buttons {
+        flex-direction: column;
+    }
+
+    .six-collumn-content,
+    .three-collumn-title {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+
+    .cost>.six-collumn-content {
+        margin-top: 20px;
+    }
+
+
+    .button-group {
+        gap: 15px;
+        box-shadow: none;
+        padding: 0;
+
+    }
+
+    .sectionButton {
+        height: 65px;
+        padding: 0 10px;
+    }
+
+    .user-scenario-title {
+        padding: 20px 20px;
+        font-size: 14px;
+    }
+
+
+    .two-collumn-left .aboutText>.cvSection {
+        display: inline-block;
+        margin-bottom: 0 !important;
+    }
+
+
+    .project-intro {
+        margin-bottom: 100px;
+    }
+
+    .imagesWrapper {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .gridImage {
+        width: 100%;
+    }
+
+    .three-collumn-title,
+    .secondLineTitle {
+        position: static !important;
+    }
+
+    .costBeta {
+        width: 100%;
+        margin: 0 !important;
+        width: 100% !important;
+    }
+
+    .sectionButton {
+        height: auto;
+        padding: 20px;
+    }
+
+    .costBeta>.six-collumn-content {
+        margin-top: 0px;
+    }
+
+    .bgWrapper {
+        display: none;
+    }
+
+    .footer {
+        width: calc(100% - 120px);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project-image-grid {
+        margin: 0 !important;
+        width: 100% !important;
+        margin-top: 15px !important;
+    }
+
+    .cardsContainer {
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 20px;
+    }
+
+    .projectCard img.cardImg {
+        height: fit-content;
+
+    }
+
+    .projectCard a {
+        font-weight: 300;
+        font-size: 17px;
+    }
+
+    .projectCardInfo {
+        height: 70px;
+    }
+
+    .artwork-image-grid {
+        column-count: 1;
+    }
+
+    .artwork-image-grid img {
+        margin-bottom: 20px;
+    }
+
+
+
+    .cvRow {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        gap: 0;
+    }
+
+    .cvSection {
+        flex-direction: column;
+        margin-bottom: 150px;
+    }
+
+    .cvContainer {
+        max-width: none;
+        width: 100%;
+    }
+
+    .stickyTitle {
+        position: static;
+    }
+
+    .cvContent {
+        width: 100%;
+        order: 1;
+    }
+
+    .cvContent h3 span {
+        display: block;
+    }
+
+    h3 br {
+        display: none;
+    }
+
+
+
+    .cvDate {
+        order: 2;
+        width: 100%;
+    }
+
+    .cvDescription {
+        width: 100%;
+        order: 3;
+        grid-column: 1 / span 2;
+        margin-top: 20px;
+    }
+
+    .cvDescription2 {
+        width: 100%;
+    }
+
+    .descriptionBlock {
+        width: 100%;
+        order: 3;
+        grid-column: 1 / span 2;
+    }
+
+    .four-collumn {
+        grid-template-columns: 50% 50%;
+        gap: 0;
+    }
+
+    .collumnA {
+        grid-column: 1 / span 1;
+    }
+
+    .collumnB {
+        grid-column: 2 / span 2;
+    }
+
+    .collumnC {
+        grid-column: 1 / span 2;
+        margin-top: 50px;
+    }
+
+
+    .two-collumn-right {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .cvSection .two-collumn {
+        /* grid-template-columns: calc(50% - 15px) calc(50% - 15px);
+        display: grid;
+        gap: 30px; */
+
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .aboutBottomInfo {
+        flex-direction: column;
+    }
+
+    .aboutContact {
+        margin-top: 20px;
+    }
+
+    .aboutContact p {
+        margin-top: 5px;
+    }
+
+    .socialsIconsContainer {
+        margin-top: 20px;
+    }
+
+    #navbar {
+        display: none;
+    }
+
+    .user-persona-container.persona-six-collumns {
+        width: 100%;
+    }
+
+    .user-persona-categories {
+        display: block;
+    }
+
+    .persona-card h3 {
+        line-height: 35px;
+    }
+
+    .user-persona-category li {
+        margin: 0;
+        margin-bottom: 20px;
+        list-style: none;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .user-persona-category {
+        margin-bottom: 40px;
+    }
+
+    .project-content>div {
+        margin-bottom: 80px !important;
+    }
+
+    .three-collumn-title {
+        text-shadow: none !important;
+    }
+
+    .description-video {
+        width: 100%;
+        height: 50vw;
+    }
+
+    .footer {
+        width: calc(100% - 90px);
+        padding: 25px;
+        border-radius: 15px;
+    }
+
+    .footer ul li {
+        margin-bottom: 12px;
+    }
+
+    #navbar {
+        width: 100vw;
+        height: 100vh;
+        top: 0;
+        left: 0;
+        border-radius: 0 !important;
+        flex-direction: column;
+        padding: 0 !important;
+        gap: 0;
+        backdrop-filter: blur(15px);
+        gap: 15px;
+        background: linear-gradient(-10deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+        padding: 15px 0px !important;
+        transition: 400ms;
+        padding-top: 0px !important;
+    }
+
+    .nav-box {
+        flex-direction: column;
+        height: 100%;
+        gap: 30px;
+        gap: 15px;
+    }
+
+
+    .menuItem {
+        width: calc(100% - 40px);
+        margin: auto;
+        height: calc((100vh - 200px) / 5);
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+
+    #navbar>.menuItem{
+        margin-top: 100px;
+    }
+
+    .nav-group {
+        height: 100%;
+        width: 100%;
+        margin: auto;
+    }
+
+    .nav-box {
+        height: 100%;
+        gap: 0;
+    }
+
+    .menuItemCoat {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10vw;
+    }
+
+    .body-stop {
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+
+    nav a, nav a:visited{
+        align-content: center;
+        width: 100%;
+        text-align: center;
+        height: calc((100vh - 200px) / 5);
+        padding: 0;
+    }
+
+    h1{
+        margin-top: 20px;
+    }
+
+}
+
+
+
+
+
+/*  ———————————————————————————————————————————————— MENU HOVER ———————————————————————————————————————————————— */
+@media screen and (min-width: 818px) {}
+
+
+
+
+/*  ———————————————————————————————————————————————— GLOBAL tablet and phone ———————————————————————————————————————————————— */
+
+@media screen and (max-width: 818px) {}
+
+
+
+/*  ———————————————————————————————————————————————— TALL ———————————————————————————————————————————————— */
+@media screen and (min-height: 926px) {
+
+}

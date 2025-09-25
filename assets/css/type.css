@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'Fustat';
+    src: url('../fonts/Fustat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    /* Adjust this to the actual range supported */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BricolageGrotesque';
+    src: url('../fonts/BricolageGrotesque-VariableFont_opsz,wdth,wght.ttf') format('truetype');
+    font-weight: 100 900;
+    /* Adjust this to the actual range supported */
+    font-style: normal;
+    font-display: swap;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'BricolageGrotesque', sans-serif;
+    color: white;
+    margin-top: 110px;
+    font-size: 50px;
+    letter-spacing: calc(50px * 0.05);
+    margin-bottom: 50px;
+    font-weight: 500;
+    position: relative;
+    z-index: 5;
+}
+
+h2 {
+    font-family: 'BricolageGrotesque', sans-serif;
+    color: white;
+    font-size: 30px;
+    letter-spacing: calc(30px * 0.05);
+    font-weight: 500;
+    text-transform: uppercase;
+    scroll-margin-top: 50px;
+}
+
+.projectContainer h2 {
+    font-size: 35px;
+    letter-spacing: calc(35px * 0.05);
+    line-height: 40px;
+}
+
+.homepageCard h2 {
+    font-size: 40px;
+    letter-spacing: calc(40px * 0.05);
+    font-weight: 400;
+    margin-bottom: 10px;
+    transition: text-shadow 0.2s ease-in-out 0s;
+}
+
+.homepageCardTitle,
+.projectCardInfo h2 {
+    text-transform: capitalize !important;
+}
+
+h3 {
+    font-size: 20px;
+    letter-spacing: calc(20px * 0.05);
+    text-transform: uppercase;
+    font-family: 'BricolageGrotesque', sans-serif;
+    line-height: 24px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+
+h3 span {
+    font-weight: 100;
+    font-size: 15px;
+    letter-spacing: calc(15px * 0.05);
+    text-transform: capitalize;
+}
+
+.projectContainer h3 {
+    font-size: 22px !important;
+    letter-spacing: calc(22px * 0.05);
+    font-weight: 200;
+    left: 0;
+}
+
+
+p {
+    font-family: 'Fustat', sans-serif;
+    font-size: 14px;
+    letter-spacing: calc(14px * 0.05);
+    line-height: 21px;
+    opacity: 0.8;
+}
+
+
+.six-collumn-content p {
+    font-size: 16px;
+    letter-spacing: calc(15px * 0.05);
+    line-height: 24px;
+    font-weight: 300;
+}
+
+.homepageCard p {
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: calc(14px * 0.05);
+    margin-bottom: 10px;
+    opacity: 0.6;
+}
+
+
+
+.homepageCard li {
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: calc(12px * 0.05);
+    font-family: 'Fustat', sans-serif;
+    text-transform: uppercase;
+}
+
+.homepageCard a {
+    font-weight: 300;
+}
+
+a,
+a:visited {
+    color: white;
+    font-family: 'Fustat', sans-serif;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+.inlineLink,
+.inlineLink2,
+.inlineLink3 {
+    display: inline-block;
+    padding: 0;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    text-decoration-thickness: 1px;
+}
+
+.inlineLink {
+    margin-top: 0;
+}
+
+.inlineLink2 {
+    margin-top: 20px;
+}
+
+.inlineLink:hover,
+.inlineLink2:hover,
+.inlineLink3:hover,
+.cvSubtitle a:hover {
+    color: white;
+    opacity: 1;
+    text-shadow: 0 0 10px white;
+    font-weight: 600;
+}
+
+.cvSubtitle:has(a:nth-of-type(1):hover) {
+
+    opacity: 1;
+}
+
+.projectCardInfoBottom a,
+.projectCardInfoBottom a:visited {
+    padding: 0 !important;
+}
+
+
+.homepageIntro p {
+    font-size: 44px;
+    letter-spacing: calc(44px * 0.05);
+    text-align: center;
+    line-height: 58px;
+    font-weight: 100;
+    width: max-content;
+    margin: auto;
+}
+
+
+.cvSubtitle {
+    font-family: 'Fustat', sans-serif;
+    font-size: 14px;
+    letter-spacing: calc(14px * 0.05);
+    opacity: 0.5;
+    line-height: 21px;
+    font-weight: 600;
+}
+
+.cvSubtitle a {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    padding: 0;
+}
+
+.cvDescription,
+.cvDate {
+    font-family: 'Fustat', sans-serif;
+    font-size: 14px;
+    letter-spacing: calc(14px * 0.05);
+    line-height: 21px;
+    font-weight: 300;
+}
+
+.ironMan {
+    margin-top: 30px;
+}
+
+
+.inline-text-link {
+    padding: 0;
+    display: inline-block;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    font-weight: 500;
+}
