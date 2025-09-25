@@ -1,0 +1,76 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "testeeeee",
+        "introDate": "February 2023 — June 2023",
+        "type": "Academic Project",
+        "typeDescription": "Faculty of Engineering of University of Porto — LGP (Linking Great Partners)",
+        "coauthor": [
+            "<a href='https://www.behance.net/Afonsomatos27'  target='_blank'>Afonso Matos</a>",
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ],
+        "designTools": [
+            "Figma",
+            "Final Cut Pro"
+        ],
+        "img": "../assets/img/design/projects/traqueno/cover.jpg"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Context",
+        "titleH3": "Background",
+        "description1": [
+            "'Traqueno' was a start‑up company created in the Project Management Laboratory course at the Faculty of Engineering, University of Porto. The company's mission was to be the bridge that connected customers and service providers through its application. As the company’s Lead UI Designer I was responsible for the user interface and interaction of our digital product. It was also my task to create the company's Marketing Video"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Vision",
+        "description1": [
+            "At Traqueno we understand the value of time in today’s culture and how hard it can be to manage. Our goal is to add value to society by helping people from all around the world   to save time, without having to forget their personal needs. We also understand the importance of small businesses and individual providers in the local economy, hence our drive to build a platform focused on them."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Mission",
+        "description1": [
+            "Traqueno aims to be the bridge that connects customers and small services or service providers through its user-friendly, accessible and inclusive platform. As a company, our goal is to create an environment that benefits both customers and service providers, by embracing a broad range of market segments, such as beauty care, healthcare, home services and many more. By providing a platform where customers can interact easily and in a timely manner with the services they need, Traqueno reduces the time small businesses or individual service providers spend in managing their bookings and interacting with customers, thus allowing them to increase their productivity."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Presentation Slidedeck",
+        "description1": [
+            "Made by <a class='inlineLink' target='_blank' href='https://matildeferreira.github.io/'>Matilde Ferreira</a>"
+        ],
+        "externalLinkName": [
+            "View Presentation Slidedeck"
+        ],
+        "externalLinkUrl": [
+            "..files/Traqueno_Slidedeck.pdf"
+        ],
+        "img": "../assets/img/design/projects/traqueno/present.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Prototype",
+        "buttons": [
+            "Low-Fidelity",
+            "High-Fidelity"
+        ],
+        "buttonsAria": [
+            "Show Low-Fidelity Interface",
+            "Show High-Fidelity Interface"
+        ],
+        "vid": [
+            "https://www.youtube.com/embed/TFXQRSGYNGQ",
+            "https://www.youtube.com/embed/jh1YXVYVLw4?si=MB-eo3G2_opuuG31"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Marketing Video",
+        "vid": "https://www.youtube.com/embed/ohiQkB0Cxmg?si=G2SymlMc50_P9phz"
+    }
+]

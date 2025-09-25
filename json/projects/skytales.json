@@ -1,0 +1,183 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "ALT",
+        "introDate": "October 2021 - November2021",
+        "type": "Academic Project",
+        "typeDescription": "Interaction Design, Web and Games Specialization Course<br>Faculty of Fine Arts, University of Porto",
+        "coauthor": [
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ],
+        "designTools": [
+            "Figma"
+        ],
+        "img": "../assets/img/design/projects/skytales/intro.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "Sky Tales is a weather mobile application that not only provides weather information but also features a daily interactive narrative game. The storyline dynamically adjusts to the user's current location's weather forecast. Upon the conclusion of each daily story, the app offers personalized recommendations for activities, events or destinations suited to that day's weather conditions forecast."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Design Persona",
+        "titleH3": "Smith",
+        "description1": [
+            "WE PRESENT TO YOU OUR LITTLE BUDDY, SMITH " ,
+            "Feel free to reach him when in need of guidance, weather guidance, that is. He’s quite the weather informant, and very instructive. He’ll keep you updated on all the weather information you need to make sure that you’ll never go out without an umbrella again, or maybe even without your favourite pair of sunglasses. ",
+            "Smith also offers a nice Interactive Narrative mini-game to kill some time on your way to work, waiting for the bus, or even while your partner is cooking breakfast. Smith’s game has no place for boredom and is quite open to new paths, paths that you’ll trace while experiencing a new story each day. Our buddy Smith will guide you all the way, and even suggest activities according to the weather. Just don’t keep him waiting for too long, as he enjoys interacting and talking to people."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Brand Traits",
+        "description1": [
+            "Feel free to reach him when in need of guidance, weather guidance, that is. He’s quite the weather informant, and very instructive. He’ll keep you updated on all the weather information you need to make sure that you’ll never go out without an umbrella again, or maybe even without your favourite pair of sunglasses." 
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Personality",
+        "description1": [
+            "Smith is a very reliable source, safe to say that he’ll support you on a daily basis and won’t put you in a place of danger. He’ll always be in the front-line willing to help in a timely manner, being patient throughout. Even though he’s quite the catch, you’ll be in charge for most of the time, but keep in mind that you’re his best company.."
+        ],
+        "img": "../assets/img/design/projects/skytales/map.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Surprise and Delight",
+        "description1": [
+            "Themed illustrations according to commemorative holidays or specials events. Story lines in which Smith expresses his personal preferences and references movies and other elements of pop culture that might relate emotionally to the user." 
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Reward",
+        "description1": [
+            "Smith once a day rewards the user with a nice suggestion, whether it may be a movie to watch, or even a nice place to visit! Of course Smith will keep the weather in mind while doing so." 
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Game Design Document",
+        "titleH3": "Game Concept",
+        "description1": [
+            "Sky Tales is a choice-driven interactive narrative. It offers multiple short stories that relate to the user’s current location weather. Each day the user has a new story available."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Genre",
+        "description1": [
+            "Text Adventure Interactive Storytelling "
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Target Audience",
+        "description1": [
+            "45-55 year olds"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Game Structure",
+        "description1": [
+            "There are 5 different styles of cards (Sunny, Cloudy, Rainy, Snowy and Thunder), each one to be used depending on the player’s current location’s weather. There are multiple short stories for each style of cards, all of those following the same structure, using three types of choice-making: " ,
+            "1. Choices that take you on a quick storyline detour, merging later back onto the main storyline (giving the player a false sense of choice, not realizing that that specific path is already pre-defined); ",
+            "2. Choices that don’t affect the storyline at all (two options taking the player to the same card); ",
+            "3. Choices that place the player on a new storyline (splitting the storyline in two independent paths, with two different endings)."
+        ],
+        "img": "../assets/img/design/projects/skytales/structure.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Moodboard",
+       
+        "img": "../assets/img/design/projects/skytales/moodboard.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Wireflows",
+        "description1": [
+            "The first step in designing the app was to create wireThe initial concept for the application was to blend meteorological information with a gaming experience. To visually convey these two distinct elements, the interface design incorporates two separate decks of cards: the Weather Deck at the top and the Game Deckat the bottom. Users can easily switch between these sections by clicking on the decks, causing them to expand or collapse and reveal either a set of weather or game cards, respectively. " ,
+            "The wireflows played a crucial role in refining this dynamic interaction, allowing us to define the flow between the two decks. They also served as the foundation for the app’s animation design, illustrating how the interface should transition and respond as users toggle between the weather and game cards.flows, which mapped out the user navigation across various screens through low‑fidelity sketches."
+        ],
+        "img": "../assets/img/design/projects/skytales/wireflows.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Illustrations",
+        "buttons": [
+            "Sunny",
+            "Cloudy",
+            "Rainy",
+            "Thunder",
+            "Snowy"
+        ],
+        "buttonsAria": [ 
+            "Show illustrations of Sunny environment",
+            "Show illustrations of Cloudy environment",
+            "Show illustrations of Rainy environment",
+            "Show illustrations of Thunder environment",
+            "Show illustrations of Snowy environment"
+        ],
+        "img": [
+            "../assets/img/design/projects/skytales/Sunny.png",
+            "../assets/img/design/projects/skytales/Cloudy.gif",
+            "../assets/img/design/projects/skytales/Rainy.gif",
+            "../assets/img/design/projects/skytales/Thunder.gif",
+            "../assets/img/design/projects/skytales/Snowy.gif"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Prototype",
+        "buttonFlexCat":"buttonFlexCat3",
+        "buttons": [
+            "New Card",
+            "Gameplay #1",
+            "Gameplay #2",
+            "Gameplay #3"
+        ],
+        "buttonsAria": [ 
+            "Show Prototype for New Card scenario",
+            "Show Prototype for Gameplay number 1 scenario",
+            "Show Prototype for Gameplay number 2 scenario",
+            "Show Prototype for Gameplay number 3 scenario"
+        ],
+        "vid": [
+            "https://embed.figma.com/proto/gy6KKogoyOSmJM5S6naVjI/Sky-Tales---Prototype?page-id=129%3A46130&node-id=129-96626&node-type=canvas&viewport=792%2C524%2C0.1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=129%3A96626&embed-host=share",
+            "https://embed.figma.com/proto/gy6KKogoyOSmJM5S6naVjI/Sky-Tales---Prototype?page-id=129%3A56863&node-id=129-96667&node-type=canvas&viewport=830%2C517%2C0.06&scaling=scale-down&content-scaling=responsive&starting-point-node-id=129%3A96667&embed-host=share",
+            "https://embed.figma.com/proto/gy6KKogoyOSmJM5S6naVjI/Sky-Tales---Prototype?page-id=129%3A77653&node-id=129-96743&node-type=canvas&viewport=869%2C517%2C0.12&scaling=scale-down&content-scaling=responsive&starting-point-node-id=129%3A96743&embed-host=share",
+            "https://embed.figma.com/proto/gy6KKogoyOSmJM5S6naVjI/Sky-Tales---Prototype?page-id=129%3A84123&node-id=129-96797&node-type=canvas&viewport=869%2C517%2C0.12&scaling=scale-down&content-scaling=responsive&starting-point-node-id=129%3A96797&embed-host=share"
+        ],
+        "iframeCard": [
+            "google.com",
+            "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfAXUiOdV6SBNZ5T6xnkFpK%2FSky-Tales-Prototipo%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-17992%26viewport%3D385%252C148%252C0.04%26t%3DkK9Xmt7Dj6mxF4ur-1%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A17980%26mode%3Ddesign",
+            "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfAXUiOdV6SBNZ5T6xnkFpK%2FSky-Tales-Prototipo%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-38833%26viewport%3D385%252C148%252C0.04%26t%3DkK9Xmt7Dj6mxF4ur-1%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A38815%26mode%3Ddesign",
+            "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfAXUiOdV6SBNZ5T6xnkFpK%2FSky-Tales-Prototipo%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-45302%26viewport%3D385%252C148%252C0.04%26t%3DkK9Xmt7Dj6mxF4ur-1%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A45284%26mode%3Ddesign"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Prototype Video",
+        "vid": "https://www.youtube.com/embed/vf4Nf9N42jI?si=WOltd5N0vxZmxkIL"
+    }
+
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Portuguese",
+        "subtitle": "Native"
+    },
+    {
+        "title": "English",
+        "subtitle": "Fluent",
+        "description1": [
+            "C1 Listening Comprehension",
+            "C2 Reading Comprehension",
+            "C2 Oral Interaction",
+            "C2 Speaking",
+            "B2 Writing"
+        ],
+        "description2": [
+            "Professional Qualification Certificate Advanced English",
+            "WSE Cambridge FCE Interactive",
+            "Professional Qualification Certificate General English",
+            "Cambridge English Entry Level Certificate in ESOL International (Entry 3)"
+        ]
+    },
+    {
+        "title": "Spanish",
+        "subtitle": "Proficient",
+        "description1": [
+            "B1 Grammar",
+            "B2 Vocabulary",
+            "C2 Reading Comprehension",
+            "B2 Listening Comprehension"
+        ],
+        "description2": [
+            "OLS Exam B2",
+            "5 months living in Barcelona, Spain"
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "Anathema",
+        "introDate": "December 2025 — March 2026",
+        "type": "Curricular Project",
+        "typeDescription": "Interaction Design, Web and Games Specialization Course<br>Faculty of Fine Arts, University of Porto",
+        "coauthor": [
+            "<a href='https://www.behance.net/Afonsomatos27'  target='_blank'>Afonso Matos</a>",
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ],
+        "designTools": [
+            "Figma",
+            "Illustrator"
+        ],
+        "developTools": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "img": "../assets/img/design/projects/anathema/cover.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "Anathema is a gamified mobile app developed in collaboration with Fraunhofer AICOS to enhance young adults' sexual health. While Fraunhofer's original and parent project targeted a different audience, both aimed to improve couples' sexual health. Throughout the project, we received valuable mentorship from Dr. Ana Barros and Joana Couto from Fraunhofer‑AICOS."
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "User Research",
+        "titleH3": "Questionnaire",
+        "description1": [
+            "Since sexuality is a sensitive topic, we chose to develop and share a questionnaire aimed at people over 16 years old with sexual experience. Through it we tried to understand how we could improve people's sexual satisfaction, what types of topics we should address in the application and what type of dynamics we could explore. We gathered 533 answers."
+        ],
+        "buttons": [
+            "Romantic Behaviours",
+            "Communication",
+            "Sex toys"
+        ],
+        "buttonsAria": [
+            "Show Romantic Behaviours results from the questionnaire",
+            "Show Communication results from the questionnaire",
+            "Show Sex Toys results from the questionnaire"
+        ],
+        "description": [
+            "We understood that romantic satisfaction in a couple translates in sexual satisfaction. Thus, the app should encourage not only sexual but also romantic behaviours",
+            "It was considered important to stimulate communication between the couple through the app, given that the more the people comunicate with their partners about different aspects related to their sex life, the more satisfied they feel about it.",
+            "It was understood that sex toys should be promoted and encouraged in the app given that only 9% of the respondents don't have interest in trying them. From the 91% that had interest 46% hadnt't tried them yet, mainly because they haven't given it much thought."
+        ],
+        "img": [
+            "../assets/img/design/projects/anathema/forms1.png",
+            "../assets/img/design/projects/anathema/forms2.png",
+            "../assets/img/design/projects/anathema/forms3.png"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Interview",
+        "description1": [
+            "An interview was done to the Doctor Raquel Pereira, from the SexLab of the Faculty of Psychology and Education Sciences of the University of Porto in order ot better understand the context of Sex Therapy.",
+            "With the interview we understood that our target audience's age would be 25-35 (mainly it's between 20-30 that go to therapy, but 25.35 is an age were couples start living together and creating more habits and routines as a couple that we intended to develop in the App); That it should demystify sexual myths, predispose couples to new sexual experiences and self-discovery;The interview also reinforced the importance of a romantic experience as well as communication in context of sex therapy. We also understood that Sensate Focus would be an activity to explore in the app."
+        ],
+        "img": "../assets/img/design/projects/anathema/interview.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-user-persona",
+        "titleH2": "User Persona",
+        "userPersonas": [
+            {
+                "name": "Bernardo (30 yrs) and Joana (31 yrs)",
+                "image": "../assets/img/design/projects/anathema/persona.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "Bernardo and Joana have been dating for 3 years, and in August 2020, in the beginnings of the pandemic, they chose to move in together. As a consequence of the pandemic, the normalization of remote working has disturbed their relationship, making it repetitive and monotonous. This wear and tear got reflected in the couple's sex life.",
+                            "Recently, Bernardo and Joana have tried sex therapy sessions as a couple, but they are looking for something different, something they can use in the long term, with a margin for freedom without becoming a burden."
+                        ]
+                    },
+                    {
+                        "title": "Joana",
+                        "description": [
+                            "Wants to know her body better",
+                            "Doesn't feel sexually satisfied",
+                            "Is ashamed of her sexual fantasies",
+                            "Doesn't feel understood"
+                        ]
+                    },
+                    {
+                        "title": "Bernardo",
+                        "description": [
+                            "Wants to experiment with sex toys",
+                            "Watches too much pornography",
+                            "Feels a lack of love demonstration"
+                        ]
+                    },
+                    {
+                        "title": "Couple’s Struggles",
+                        "description": [
+                            "Poor communication",
+                            "Mismatched schedules",
+                            "Conflict in the division of tasks",
+                            "Lack of sexual desire",
+                            "Sexual activity of short duration"
+                        ]
+                    },
+                    {
+                        "title": "Couple’s Interests",
+                        "description": [
+                            "New sexual interactions",
+                            "Cooking together",
+                            "Gastronomy",
+                            "Travel",
+                            "BDSM",
+                            "Competitive Games"
+                        ]
+                    },
+                    {
+                        "title": "Couple's Ambitions and Wishes",
+                        "description": [
+                            "Improve their sex life",
+                            "Know more information about “Sex”",
+                            "Get to know more about the partner",
+                            "Further open their minds within their relation",
+                            "Give “Sensate Focus” a try",
+                            "Pass more quality time together"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "templateType": "project-user-scenarios",
+        "titleH2": "User Scenarios",
+        "userScenarioTitles": [
+            "Download the app",
+            "Explore Audio Guides and Coupons",
+            "Play 'Demystify' to Purchase a Coupon",
+            "Discover Your Sex Toy & Start Sensate Focus",
+            "Play Weekly 'Lovers’ Bingo' and 'Risk or Spill'",
+            "Talk About the Theme of the Day"
+        ],
+        "userScenarioDescriptions": [
+            "Joana and Bernardo both had an exhausting day of remote working, full of meetings, where they barely saw each other since they don't like to work in the same room. In the evening, after a day that caused them an extreme level of fatigue, Joana remembered a magazine she had of cocktail recipes for them to make and abstract themselves. While Joana is getting ready to make dinner, Bernardo is putting together the ingredients for the cocktails. With his eyes on the magazine, Bernardo notices an advertisement in the corner of the page. An app that seems to open doors to new sexual experiences and interactions in a playful and even competitive way, he comments with Joana and they both download the app to try it after dinner. Already more relaxed after the meal, they make their way to the app. They notice that before they can try the games and activities they have to pair their accounts. As they do so, the app asks for an important date of their relationship, which they enter the date they met. So Joana and Bernardo take the first step of many towards what will become a better, healthier sex life.",
+            "Joana takes advantage of the fact that Bernardo is on a business trip to explore her body with the help of the app. Following the audio-guides given by the app, she gets to know points of pleasure of her body that, until then, were unknown to her. Then she redeems the points she earned for a random romantic coupon, in which she buys a massage from Bernardo. Bernardo picks up his cell phone to read the notification he received, smiling, knowing that when he gets home he will have a special moment with Joana.",
+            "Bernardo has been craving a walk by the beach. In order to get Joana a coupon from the Kiosk, Bernardo decides to do a few rounds of Demystify in hopes of getting the missing points. While playing, he realizes that he is, in fact, quite mistaken when it comes to matters of Sexology. After a few rounds, Bernardo not only manages to collect the necessary points for the coupon, but he also becomes much more informed and starts commenting on some curiosities with Joana, taking advantage of this and acquiring a Date Card coupon.",
+            "Bernardo noticed that the app offered a quiz:'What's your sex toy'; he found it interesting and decided to answer. In the process of answering the quiz, Bernardo became even more interested in the topic of sex toys, when he saw the result he thought it would be a good opportunity to know Joana's opinion on the subject. In conversation, Joana showed fear for the fact that it is a high price and they may not like it, however, Bernardo reminds her that there is a discount coupon for a Sex-Shop in the Kiosk. Although the coupon costs a lot of points, they decide to work together to get them, using the Sensate Focus exercise, since it is a cooperative activity. Given that this is a prolonged exercise, it nevertheless has a high reward, not only in terms of points for the coupon, but also in terms of positive consequences for the relationship.",
+            "On a Saturday afternoon after lunch, Bernardo and Joana are on the balcony sunbathing while they relax. Being the weekend, there is a new Bingo rotation, and it is never too late for a good healthy competition between a couple. Joana starts checking off some of the activities, and notices that perhaps if she had shown more love during the week through certain activities, she could have completed more items, getting a more complete game card for the week. Bernardo, on the other hand, left only a couple of items uncompleted, staying ahead of Joana and earning the full Lovers' Bingo points. Seizing the spirit of the competitive mode, Joana wants revenge. Pouring herself a glass of wine, she challenges Bernardo to participate in rounds of 'Risk or Spill', through which they reveal things they had never told one another, while also performing challenges that elevate the relationship both on a romantic and sexual level...",
+            "Bernardo opens the app and notices that the suggested conversation topic for today is about sexual fantasies. During the lunch break, he takes the opportunity to ask Joana if she has any fantasies that she has never revealed to him. While they have lunch they share their desires and reflect on what they would both like to try."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "brainstorm",
+        "description1": [
+            "We began by exploring themes related to sexuality, which inspired a brainstorming session that ultimately led us to our final concept. The idea we developed is an app where users earn points through games and activities, either solo or with a partner. These points can be exchanged for a variety of cards – romantic, sexual, or activity‑based – that can be sent to their partner as a fun, interactive way to enhance their relationship.",
+            "In addition, we introduced co‑operative games and activities designed for couples to earn a second type of shared points. These points can be redeemed for vouchers, such as discounts for sex shops or hotel stays, offering couples opportunities to enjoy intimate experiences together."
+        ],
+        "img": "../assets/img/design/projects/anathema/brainstorm.jpg",
+        "imgAlt": "testeeeeeeee",
+        "imgSize": "Big"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "requirements",
+        "description1": [
+            "Based on the conducted user research and the brainstorm session a list of requirements was compiled encompassing functional, informative, context and experience requirements of the application."
+        ],
+        "externalLinkName": [
+            "See Full Requirements"
+        ],
+        "externalLinkUrl": [
+            "../files/anathema-requirements.pdf"
+        ],
+        "img": "../assets/img/design/projects/anathema/requirements.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "wireflows",
+        "description1": [
+            "The first step in designing the app was to create wireflows, which mapped out the user navigation across various screens through low‑fidelity sketches."
+        ],
+        "img": "../assets/img/design/projects/anathema/wireflows.png",
+        "imgAlt": "testeeeeeeee",
+        "imgSize": "Big"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Prototype",
+        "description1": [
+            "Once the user flow of the application was defined, a low‑fidelity prototype was created with more detail than the wireflows. After conducting user testing, a high‑fidelity prototype was developed, incorporating insights from the tests. A final round of testing allowed for the last iterations to be made to the Anathema prototype"
+        ],
+        "buttons": [
+            "Low Fidelity Prototype",
+            "High Fidelity Prototype",
+            "Final Iterations"
+        ],
+        "buttonsAria": [
+            "Show Low Fidelity Prototype interface",
+            "Show High Fidelity Prototype interface",
+            "Show Final Iterations"
+        ],
+        "img": [
+            "../assets/img/design/projects/anathema/lowFi.png",
+            "../assets/img/design/projects/anathema/highFi.png",
+            "../assets/img/design/projects/anathema/intro.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Usability Testing",
+        "buttons": [
+            "First Round",
+            "Second Round"
+        ],
+        "buttonsAria": [
+            "Show first round of usability testing",
+            "Show second round of usability testing"
+        ],
+        "description": [
+            "In the first round of usability testing, we tested the low‑fidelity prototype with two couples and identified several areas for improvement. Users expressed a preference for a purple, night‑mode color scheme, as the app would primarily be used at home in the evening. The instructions for the “Lover's Bingo” game were clarified to explain that when two phones are placed together, they create a single shared board rather than functioning separately. Additionally, a “Custom Card” option was added to the Kiosk, allowing users to personalize their experience further.",
+            "In the second round, five couples tested the high‑fidelity prototype, resulting in final iterations to the app. We enhanced button contrast and provided clearer feedback for newly received cards. Instructions were refined to better explain the horizontal phone placement in multiplayer games. In “Lover's Bingo”, we clarified filled vs. unfilled blocks and assigned unique colors to players for better identification. To improve navigation, the confusing “Risk or Spill” cross button was replaced with a “Finish button”, and a “Back to Home” button was added to the final game cards to encourage users to fully review it before exiting."
+        ],
+        "img": [
+            "../assets/img/design/projects/anathema/participantes1.png",
+            "../assets/img/design/projects/anathema/participantes2.png"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "project dissemination",
+        "description1": [
+            "A promotional video was created to showcase the project at the SOS – Sunset Open Session in 2022, an event where students presented the outcomes of their Interaction Design, Web, and Games Specialization Course.",
+            "The video was also featured by Ricardo Melo from Fraunhofer AICOS during his lecture Design e Saúde: A criação de tecnologia para a saúde através de um processo centrado na pessoa at the Faculty of Fine Arts, University of Porto, in April 2023, as part of the celebration of Design Day."
+        ],
+        "vid": "https://player.vimeo.com/video/722300860?badge=0&autopause=0&quality_selector=1&player_id=0&app_id=58479"
+    }
+]

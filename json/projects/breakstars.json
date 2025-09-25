@@ -1,0 +1,88 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "alt",
+        "introDate": "January 2022 - May 2022",
+        "type": "Freelance Project",
+        "typeDescription": "Porto's Planetarium - Centro de Ciência Viva",
+        "designTools": [
+            "Figma",
+            "Adobe After Effects",
+            "Adove Illustrator"
+        ],
+        "img": "../assets/img/design/projects/breakstars/intro.jpg"
+    },
+    { 
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "This application aims to take some of the concepts that serve as the basis for the study of stellar astrophysics to the students and the general public. Among these, is the concept of the star as as musical instrument. Although they do not propagate through empty space, the sound waves produced in stellar interiors allow astronomers to know the sizes and masses of stars and even details of their internal structure. Through simple interactions, the applications share with the user knowledge about the stars, their evolution and their music and checks if the concepts are correctly acquired.",
+            "Project featured in <a class='inline-text-link' target='_blank' href='https://tek.sapo.pt/artigos/a-musica-das-estrelas-convida-a-navegar-nos-misterios-do-universo'>Tek Notcícias</a>"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Wireflows",
+        "img": [
+            "../assets/img/design/projects/breakstars/wireflows.jpg"
+        ],
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "titleH2": "User Interface",
+        "img": [
+            "../assets/img/design/projects/breakstars/interfaceGridA.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridB.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridC.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridD.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridE.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridF.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridG.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridH.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridI.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridJ.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridK.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridL.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridM.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridN.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridO.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridP.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridR.jpg",
+            "../assets/img/design/projects/breakstars/interfaceGridS.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Try it yourself",
+        "externalLinkName": [
+            "Try it here"
+        ],
+        "externalLinkUrl": [
+            "http://www.planetario.up.pt/musica-estrelas/"
+        ],
+        "img": "../assets/img/design/projects/breakstars/mockup.jpg",
+        "imgAlt": "testeeeeeeee"
+    }
+    
+]

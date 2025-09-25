@@ -1,0 +1,413 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "ALT",
+        "introDate": "November 2024 — August 2026",
+        "type": "Professional Project",
+        "typeDescription": "Higher Technician - Design Department<br>Faculty of Fine Arts - University of Porto",
+        "designTools": [
+            "Figma",
+            "Adobe Illustrator",
+            "Adobe Photoshop"
+        ],
+        "developTools": [
+            "HTML & CSS",
+            "JavaScript (jQuery)",
+            "PHP"
+        ],
+        "img": "../assets/img/design/empty.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Ambassadors",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "User Research",
+        "titleH3": "Affinity Map",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Questionnaires",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Interviews",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Cultural Probe",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-user-persona",
+        "titleH2": "User Persona",
+        "userPersonas": [
+            {
+                "name": "Rajko Ostronič",
+                "ageCountry": "78 years old, Slovenia",
+                "image": "../assets/img/design/projects/smartagecare/persona/rajko.jpg",
+                "categories": [
+                    {
+                        "title": "Description — CITIZENSHIP",
+                        "description": [
+                            "Facing isolation, reduced mobility, and financial challenges, he finds joy in gardening, nature, and wellness classes. He aspires to live actively, connect with others, and strengthen bonds with family and friends."
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Feeling isolated and alone",
+                            "Expensive and unsuitable dental services",
+                            "Lack of public transportation options in his area",
+                            "Overcrowding due to tourism and immigration",
+                            "High housing costs and low pension",
+                            "Reduced mobility and physical limitations",
+                            "Low digital literacy"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Attending cognitive stimulation and wellness classes",
+                            "Spending time outdoors in the nature",
+                            "Taking care of his garden",
+                            "Participate in hydro-gymnastic classes"
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Live an active life and improve his mobility",
+                            "Be an active member of society",
+                            "Raise awareness for the rest of society",
+                            "Have a more diverse and active routine"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Spend more quality time with his family",
+                            "Enjoy regular outings with friends",
+                            "Meet new people and expand connections",
+                            "Join and participate in groups of interest"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Manuel Oliveira",
+                "ageCountry": "72 years old, Portugal",
+                "image": "../assets/img/design/projects/smartagecare/persona/manuel.jpg",
+                "categories": [
+                    {
+                        "title": "Description - DIGITAL TRANSITION",
+                        "description": [
+                            "Struggling with digital tools, he finds joy in puzzles, radio, and walks with his grandson. He aspires to gain digital independence, improve his smartphone skills, and stay connected with friends safely and confidently."
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Lack of digital knowledge keeps Manuel from being digital independent",
+                            "Keeping up with new digital updates",
+                            "Web pages without translation",
+                            "Doesn’t understand the different between a website and a mobile application",
+                            "Struggles understanding digital iconography",
+                            "Use the phone camera"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Crosswords and Sudoku",
+                            "Rake pictures and record videos walks in his walks with his grandson to the park",
+                            "Keep in touch with his friends on whatsapp",
+                            "Listening to the radio"
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Manuel wishes to learn how to properly use the phone camera  ",
+                            "Learn how to use the smartphone messages",
+                            "Wants to know more about the smartphone’s functionalities and how to use them"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Have more digital independence through computer and smartphone lessons",
+                            "Be safer with the help of cybersecurity lessons ",
+                            "Have support material in video or image format"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Teresa Marciniak",
+                "ageCountry": "76 years old, Poland",
+                "image": "../assets/img/design/projects/smartagecare/persona/teresa.jpg",
+                "categories": [
+                    {
+                        "title": "Description — E-HEALTH",
+                        "description": [
+                            "Facing challenges with complex e-health services and accessibility, she enjoys crocheting, family time, and traveling with friends. She aims to gain digital skills for managing her health, scheduling appointments, and accessing medical care independently, even while traveling."
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Confusing medical services’ applications",
+                            "Expensive digital services",
+                            "Lack of platforms’ integration",
+                            "Lack of medical availability for consultations",
+                            "Lack of accessibility and flexibility in digital services",
+                            "Medical personnel doesn’t know how to use e-health mobile applications"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Spend time with her family",
+                            "Crochet",
+                            "Travel with her friends",
+                            "Senior University"
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Independency to collect medical analysis and to receive medical prescriptions",
+                            "Be able to have her appointments through video",
+                            "Have her health monitored digitally",
+                            "Access medical services while traveling"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Gain more digital knowledge to help her  in the e-health process",
+                            "Easier to understand interfaces",
+                            "Schedule her online appointments"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Daniela Lucia",
+                "ageCountry": "33 years old, Italy",
+                "image": "../assets/img/design/projects/smartagecare/persona/daniela.jpg",
+                "categories": [
+                    {
+                        "title": "Description - SENIOR UNIVERSITY PROFESSOR",
+                        "description": [
+                            "As a Senior University professor, she faces challenges creating engaging material and helping older adults overcome tech intimidation. She uses games, videos, and cognitive exercises to foster a supportive, inclusive learning environment and aims to provide resources for independent learning."
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Find material to teach her classes",
+                            "Older adults students are intimated by technology, thinking they are “too old” to learn it",
+                            "The classes are too short and some older adults may need more time"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Educational games",
+                            "Video content",
+                            "Cognitive learning exercises",
+                            "Fostering a learning community"
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Help her older adults students become more digital independent",
+                            "Create accessible and inclusive learning tools for the older adults"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Offer a welcoming, non-judgmental learning environment for the older adults",
+                            "Provide engaging and interactive gamified material to her older adults classes ",
+                            "Supply her students with material that they can use to learn outside the classroom"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Martin Varga",
+                "ageCountry": "52 years old, Slovakia",
+                "image": "../assets/img/design/projects/smartagecare/persona/doc.jpg",
+                "categories": [
+                    {
+                        "title": "Description — HEALTH PROFESSIONAL",
+                        "description": [
+                            "Description1B"
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Polypharmacy",
+                            "Pressed by the lack of time to address all the needs of each patient in a complete manner.",
+                            "Convincing patients to adopt healthier lifestyles instead of continuous medication"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Personal and cultural development",
+                            "Patient empowerment",
+                            "Technology and digital medicine",
+                            "Learning more about his patients"
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Reduce polypharmacy",
+                            "Incorporate technology effectively",
+                            "Practice more personalized medicine",
+                            "Promote preventive health",
+                            "Explore the philosophy of 'ikigai'",
+                            "Digital health"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Create a relationship of trust with patients",
+                            "Be an available and approachable doctor."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Prototype",
+        "titleH3": "Low-Fidelity",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "High-Fidelity",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Development",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Social Media",
+        "titleH3": "Consortium",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Ambassadors",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Advisory Board",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Gamified Content",
+        "titleH3": "Ikigai",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Life Quiz",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Board Game",
+        "description1": [
+            "TEXT"
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    }
+]

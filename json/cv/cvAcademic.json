@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Multimedia",
+        "subtitle": "Master Degree - Faculty of Engineering, University of Porto",
+        "description1": "<a class='cvLink' href='https://repositorio-aberto.up.pt/handle/10216/162587' target='_blank' >Jane Doe’s Mission: A Serious-Critical Digital Game for Web Designers and Developers to Train Web Accessibility for Screen Readers</a>",
+        "description2": "Dissertation Grade: 19",
+        "date": "September 2022<br>July 2024"
+    },
+    {
+        "title": "Interaction Design, Web and Games",
+        "subtitle": "Specialization Course at the Faculty of Fine Arts, University of Porto",
+        "description1": "<a class='inlineLink3' target='_blank' href='projects/anathema'>'Anathema'</a> Academic project in partnership with FhP‑AICOS",
+        "description2": "Grade: 18",
+        "date": "October 2021<br>June 2022"
+    },
+    {
+        "title": "Communication Design",
+        "subtitle": "Bachelor Degree - Faculty of Fine Arts, University of Porto",
+        "description1": ["Focus on Web Design, Branding and Video;", "Erasmus at Universitat de Barcelona;", "Curricular Internship at FEUP-LGP"],
+        "description2": "Grade: 16",
+        "date": "September 2017<br>July 2021"
+    }
+]

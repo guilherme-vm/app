@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://www.youtube.com/watch?v=0Csd7cvAq2E&t=224s&ab_channel=GuilhermeVilaMaior",
+        "title": "Tempus Fugit",
+        "description":"“Tempus Fugit” is a short film about two people, Martin and Sophie, who were in love but, with time, both drifted away and followed their own path. As time went by, Martin’s feelings never disappeared.",
+        "date": "2017",
+        "img":"assets/img/video/tempus.jpg"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JsvAuCG803I&t=1s",
+        "title": "Diamon Ice",
+        "description":"Filming of the creation of the ice sculpture made by Felipe Rocio for an exhibition of Sculpture Master's Students from the Fine Arts Faculty of University of Porto, using the portuguese 'Diamond Ice'.",
+        "date": "2020",
+        "img":"assets/img/video/ice.jpg"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3pCI0qA-XsU&t=447s&ab_channel=GuilhermeVilaMaior",
+        "title": "Sunday Story",
+        "description":"'Sunday Story' is a short film about a couple, Alice and Hannah, who have been facing some struggles about religion, smoking, and their love. On a Sunday afternoon it all comes down to a coffee talk, in which both characters' path is traced.",
+        "date": "2017",
+        "img":"assets/img/video/sunday.jpg"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zeJer6Ifi0s",
+        "title": "Coro Mozart - Rise",
+        "description":"Background video for the song Rise performed by Coro Mozart at the Feira de São Mateus opening in Viseu 2018.",
+        "date": "2022",
+        "img":"assets/img/video/riseLive.jpg"
+    },
+    {
+        "url": "https://www.facebook.com/coromozartviseu/videos/2021-you-cant-stop-the-beat-by-coro-mozart-coro-%C3%A1ngel-barja/3502364083209736/?locale=pt_PT",
+        "title": "You Can't Stop The Beat",
+        "description":"Quarantine cover by Coro Mozart and Coro Ángel Barja of the song 'You Can't Stop The Beat'.",
+        "date": "2022",
+        "img":"assets/img/video/ycstb.jpg"
+    },
+    {
+        "url": "https://www.facebook.com/coromozartviseu/videos/coro-mozart-revolution-a-capella-ssatbb/1048811705504690/",
+        "title": "Revolution SSATBB",
+        "description":"Quarantine cover by Coro Mozart of the song Revolution, video edition.",
+        "date": "2022",
+        "img":"assets/img/video/revolution.jpg"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zeJer6Ifi0s",
+        "title": "Rise SATB",
+        "description":"Quarantine cover by Coro Mozart of the song 'Rise', video edition.",
+        "date": "2022",
+        "img":"assets/img/video/rise.jpg"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zeJer6Ifi0s",
+        "title": "teste",
+        "description":"",
+        "date": "2022",
+        "img":"assets/img/video/empty.jpg"
+    }
+]

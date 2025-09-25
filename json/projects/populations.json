@@ -1,0 +1,95 @@
+[
+    {
+        "templateType": "projectIntro",
+        "introName": "Populations",
+        "introDate": "May 2024 – July 2024",
+        "type": "Freelance Project",
+        "typeDescription": "4Humanz",
+        "coauthor": [
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ],
+        "designTools": [
+            "Adobe Illustrator",
+            "Figma"
+        ],
+        "img": "../assets/img/design/projects/populations/intro.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Game Development",
+        "description1": [
+            "The development of Populations began with a preliminary concept created by i3S. Through continuous collaboration with researchers, we refined the game's dynamics and defined the required characteristics of the materials. Our primary goal was to design a captivating game that would resonate with high school students while maintaining its educational value.",
+            "Once the initial concept was established, it was time to test the game. To this end, a low‑fidelity paper prototype was developed, focusing on the essential game mechanics and structure. Therefore, at this stage, the visual identity had not yet been defined."
+        ],
+        "img": "../assets/img/design/projects/populations/development.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Playtesting",
+        "description1": [
+            "The first playtesting session aimed to evaluate several key aspects of the game. We focused on understanding the game's pace and clarity from the players' perspective. Additionally, we wanted to assess how players interacted with one another and with the game components.",
+            "After the first test, we identified several areas for improvement. The game's duration was too long, which made it less suitable for its primary context – classroom use. Players also expressed a sense of limited agency, feeling disconnected from the game's progression. In response, we redesigned the game board to reduce the number of spaces and replaced some random elements with moments that allowed for more player decision‑making.",
+            "Following these changes, we conducted a second round of playtesting. While we observed improvements, new areas for refinement emerged. For example, we realized that reducing the number of neutral spaces on the board would help make the game more dynamic.",
+            "These first two playtests, conducted with i3S researchers, were valuable from both a scientific and educational perspective. However, it was essential to gather feedback from the game's primary audience: high school students. To this end, we conducted a third playtest with a group of students, using a revised version of the low‑fidelity prototype that incorporated the previous findings. This session confirmed that the game achieved its educational and engagement goals, with only minor details requiring further refinement."
+        ],
+        "img": "../assets/img/design/projects/populations/playtesting1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Game Visual Identity",
+        "description1": [
+            "The game's visual identity centers around a pictorial representation of individuals, which is reflected across all its elements, from the box to the cards. Although the game features a broad color palette symbolizing genetic variation within populations, green was selected as the dominant color. This choice was inspired by the imagery of humanity's early evolution, associated with green spaces and natural environments.",
+            "For the special cases illustrations, the narratives described in their descriptions were extended, portraying the game’s representation of individuals in diverse contexts and environments aligned with the storyline."
+        ],
+        "img": "../assets/img/design/projects/populations/identity.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "description1": [
+            "To make the game available to a larger audience, we developed a printable version of the game, available in both Portuguese and English. This version allows teachers, students, and anyone interested in playing the game to print, assemble the board, cut out the cards, and enjoy the game without needing access to the limited produced physical version."
+        ],
+        "img": [
+            "../assets/img/design/projects/populations/identityGridA.jpg",
+            "../assets/img/design/projects/populations/identityGridB.jpg",
+            "../assets/img/design/projects/populations/identityGridC.jpg",
+            "../assets/img/design/projects/populations/identityGridD.jpg",
+            "../assets/img/design/projects/populations/identityGridE.jpg",
+            "../assets/img/design/projects/populations/identityGridF.jpg",
+            "../assets/img/design/projects/populations/identityGridG.jpg",
+            "../assets/img/design/projects/populations/identityGridH.jpg",
+            "../assets/img/design/projects/populations/identityGridI.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Printable Version",
+        "description1": [
+            "To make the game available to a larger audience, we developed a printable version of the game, available in both Portuguese and English. This version allows teachers, students, and anyone interested in playing the game to print, assemble the board, cut out the cards, and enjoy the game without needing access to the limited produced physical version."
+        ],
+
+        "externalLinkName": [
+            "Download (EN)",
+            "Download (PT)"
+        ],
+        "externalLinkUrl": [
+            "www.google.com",
+            "www.google.com"
+        ],
+        "img": "../assets/img/design/projects/populations/printable.jpg",
+        "imgAlt": "testeeeeeeee"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "Anglophone Travellers in Portugal",
+        "introDate": "November 2023 – May 2024",
+        "type": "Freelance Project",
+        "typeDescription": "CETAPS – Centre for English, Translation, and Anglo‑Portuguese Studies",
+        "coauthor": [
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ], 
+        "designTools": [
+            "Figma",
+            "Adobe Photoshop"
+        ],
+        "developTools": [
+            "Wordpress",
+            "HTML & CSS"
+        ],
+        "img": "../assets/img/design/projects/cetaps/cover.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Prototype Development",
+        "description1": [
+            "The website design process began with extensive discussions between the design team and the project’s researchers to identify communication needs. These insights informed the development of an initial information architecture, establishing a foundation for the site’s structure.",
+            "Collaboration remained integral throughout the project, with continuous dialogue enabling the refinement of both low‑fidelity and high‑fidelity prototypes. This iterative process ensured the website effectively conveyed its dual role: engaging the general public, while preserving its academic research nature."
+        ],
+        "img": "../assets/img/design/projects/cetaps/prototypeDevelopment.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Website Features",
+        "description1": [
+            "The Anglophone Travellers in Portugal website functions as both a storytelling platform and an academic repository, hosting the project’s publications and illustrations and texts of travelers’ accounts, searchable through text input and filters for ease of navigation.",
+            "To welcome visitors and foster exploration, the homepage is structured into sections introducing each main page of the website, with call‑to‑action buttons providing direct navigation.",
+            "The color palette, inspired by the theme of travel, features earthy shades of yellow and brown, evoking the warmth and vibrancy of Portugal’s landscapes and strengthening the connection to the project’s focus."
+        ],
+        "externalLinkName": [
+            "Visit the Website"
+        ],
+        "externalLinkUrl": [
+            "https://atp.fcsh.unl.pt/"
+        ],
+        "img": "../assets/img/design/projects/cetaps/visit.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "img": [
+            "../assets/img/design/projects/cetaps/identityGridA.jpg",
+            "../assets/img/design/projects/cetaps/identityGridB.jpg",
+            "../assets/img/design/projects/cetaps/identityGridC.jpg",
+            "../assets/img/design/projects/cetaps/identityGridD.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Topographic Map",
+        "description1": [
+            "A defining feature of the website is its emphasis on Portugal’s territory. Its significance to the project inspired the idea of a topographic representation.",
+            "Embracing Portugal’s distinct geographic characteristics, a three‑dimensional physical map was designed, cut, and assembled to visually capture the essence of the territory explored in the project. By manipulating light, shadows were cast to highlight the diverse elevations across Portugal’s regions, adding depth to this representation.",
+            "This map serves as a recurring visual element throughout the website, reinforcing its thematic connection to the Portuguese territory and landscape, and adding depth and texture to the user experience."
+        ],
+        "img": "../assets/img/design/projects/cetaps/Topographic.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "img": [
+            "../assets/img/design/projects/cetaps/identityGrid2A.jpg",
+            "../assets/img/design/projects/cetaps/identityGrid2B.jpg",
+            "../assets/img/design/projects/cetaps/identityGrid2C.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Implementation",
+        "description1": [
+            "The website was developed using WordPress, selected for its practicality and long‑term sustainability. Recognizing the need for frequent updates by the research team, this content management system allowed ease of use for researchers to manage content autonomously in the future.",
+            "To optimize performance and ensure accessibility across devices, the website was designed to be lightweight while maintaining high‑quality visuals and was responsively adapted to be displayed across different devices’ screens.",
+            "Although working within WordPress’s constraints posed challenges, it proved to be the most practical solution for the project’s long‑term needs."
+        ]
+    }
+]

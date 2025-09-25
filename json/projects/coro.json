@@ -1,0 +1,46 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "alt",
+        "introDate": "December 2024 — June 2025",
+        "type": "Personal Project",
+        "typeDescription": "Website redesign",
+        "designTools": [
+            "Figma"
+        ],
+        "developTools": [
+            "HTML & CSS",
+            "JavaScript (jQuery)",
+            "PHP & Composer"
+        ],
+        "img": "../assets/img/design/coro.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Design Process",
+        "titleH3": "Low-Fidelity",
+        "img": "../assets/img/design/projects/coro/low-fi.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "High-Fidelity",
+        "img": "../assets/img/design/projects/coro/hi-fi.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Development Process",
+        "description1": [
+            "The development of the website was done using HTML, CSS and JavaScript with jQuery. The website was built to be responsible through various devices. The data sheet for the agenda is printed using 'Composer' to load data from Microsoft Excel sheets, the rest of components were loading with PHP."
+        ],
+        "externalLinkName": [
+            "Check website here"
+        ],
+        "externalLinkUrl": [
+            "https://www.coromozartviseu.com/"
+        ],
+        "img": "../assets/img/design/projects/coro/develop.jpg",
+        "imgAlt": "testeeeeeeee"
+    }
+]
