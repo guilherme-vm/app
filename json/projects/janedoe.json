@@ -1,0 +1,152 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "ALT",
+        "introDate": "October 2023 — October 2024",
+        "type": "Master's Thesis",
+        "typeDescription": "Faculty of Engineering<br>Univerity of Porto",
+        "designTools": [
+            "Figma",
+            "Procreate"
+        ],
+        "img": "../assets/img/design/projects/janedoe/cover.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "TEXT",
+            "TEXT2"
+        ]
+    },
+    
+    {
+        "templateType": "project-description",
+        "titleH2": "Methodology",
+        "titleH3": "Screen Reader Usage",
+        "description1": [
+            "Out of 55 survey respondents, 48 screen reader users were included in the analysis. The largest age group was 45–54, though usage spanned ages 24–65, showing vision loss can occur at any stage of life. Most participants had 5–40 years of screen reader experience, with many long-term users still reporting frustrations online. About one third (17) felt occasional frustration with accessibility barriers, while 22 reported frequent or constant obstacles—none reported “never.” These results highlight that despite years of adaptation, accessibility issues remain a persistent challenge, underscoring the need for ongoing improvements in digital accessibility."
+        ],
+        "img": "../assets/img/design/projects/janedoe/Methodology1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Scree Reader Challenges & Habits",
+        "description1": [
+            "Nine participants joined three Zoom focus groups discussing obstacles, solutions, daily experiences, and advice for web creators. Main issues included CAPTCHAs, missing alt text, unlabeled buttons, and mouse-only interactions. Participants stressed tailoring solutions to user skill levels, noted blind users’ lack of involvement in design, and urged creators to learn HTML and follow accessibility guidelines. Insights also inspired concepts for the co-design stage."
+        ],
+        "img": "../assets/img/design/projects/janedoe/Methodology2.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Accessibility Pratices & Gaming Habits",
+        "description1": [
+            "A survey of 22 web designers and developers (mostly under 25 and with less than 3 years’ experience) found low familiarity with accessibility guidelines, with few considering user needs. Participants preferred computer-based adventure or action-strategy games. HEXAD profiling identified them mainly as Free Spirits, Players, and Achievers."
+        ],
+        "img": "../assets/img/design/projects/janedoe/Methodology3.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Co-Design",
+        "description1": [
+            "A co-design session with five participants produced serious game concepts for web designers, using focus group insights. Each group’s ideas were later analyzed from recorded explanations."
+        ],
+        "img": "../assets/img/design/projects/janedoe/Methodology4.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Brainstorm",
+        "description1": [
+            "The game concept features ants repairing maze-like tunnels, a side chat with the “Underground Heroes,” and a pixelated office that delivers WCAG-related learning and customisation. Players earn sugar cubes as rewards, face tunnel emergencies, and engage with challenges tailored to different HEXAD types. A key example is the unlabelled button challenge, designed to teach the importance of proper HTML accessibility."
+        ],
+        "img": "../assets/img/design/projects/janedoe/brainstorm.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Design, Play & Experience",
+        "description1": [
+            "Brainstorming the results from the co-design session, we obtained the founding concepts to create the game, that then followed the Design Play Experience (Winn, 2009) Framework, by creating the Learning, Storytelling, Gameplay and User Experience layers of the game."
+        ],
+        "buttons": [
+            "Learning",
+            "Storytelling",
+            "Gameplay",
+            "UX",
+            "Technology"
+        ],
+        "buttonsAria": [ 
+            "Show 'Learning' stage",
+            "Show 'Storytelling' stage",
+            "Show 'Gameplay' stage",
+            "Show 'UX' stage",
+            "Show 'Technology' stage"
+        ],
+        "description": [
+            "The game covers content from the Web Content Accessibility Guidelines, focusing on 32 selected Success Criteria out of 86, with an emphasis on screen reader accessibility.",
+            "The game world mainly unfolds in navigation tunnels, with additional gameplay in the office and garden; the office provides email, training, a shop, and access to guidelines, while the main character, Jane Doe, interacts daily with six team members—the “Underground Heroes,” each reflecting one of Bono’s Six Thinking Hats—and helps moles navigate accessible paths to visit friends and family.",
+            "The game’s objective is to make all tunnel passages accessible, with challenges including multiple-choice quizzes, keyboard-based element arrangement simulating screen readers, memorizing sequences of gems across rooms, and fixing email buttons with a focus on ARIA labels.",
+            "The game features two systems: Personalization & Adaptation, and Achievements & Rewards; players can name their character, customize through the shop, and interact with the Underground Heroes chat, while the game adapts educational content to their challenges, rewarding them with Sugar Cubes, badges for completed accessibility guidelines, and titles",
+            "Using Figma’s Local Variables (Professional Plan), we created a functional low-fidelity prototype, which was validated with co-design participants and subsequently refined."
+        ],
+        "img": [
+            "../assets/img/design/projects/janedoe/DPE-L.jpg",
+            "../assets/img/design/projects/janedoe/DPE-S.png",
+            "../assets/img/design/projects/janedoe/DPE-G.png",
+            "../assets/img/design/projects/janedoe/DPE-U.jpg",
+            "../assets/img/design/projects/janedoe/DPE-T.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Playtesting",
+        "description1": [
+            "The playtest evaluated the game’s low-fidelity prototype, focusing on the accessibility of its mechanics and their fit for the target audience. It also assessed how well the narrative conveyed its purpose of raising awareness about web accessibility, while collecting feedback on the mini challenges and difficulty levels. The insights will guide future iterations, ensuring the game stays both educational and engaging."
+        ],
+        "img": "../assets/img/design/projects/janedoe/playtest.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Audio",
+        "description1": [
+            "The game’s soundtrack was inspired by an Omnichord video on TikTok, whose soothing, harp-like tone became the central “sound-vibe.” Unable to purchase the expensive instrument, the C.ARP mobile app was used to replicate its sound and record chords, notes, and rhythms for the soundtrack. Additional sounds were recorded in a forest—wind, leaves, branches—and edited in GarageBand to create effects like Jane Doe’s movements. Computer sounds, including mouse clicks, keyboard taps, and manipulated dialogue, were also recorded to enhance in-game audio."
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "High-Fidelity",
+        "description1": [
+            "The game’s interface was created in Procreate in a 1600 x 1000 frame and organized in Figma, while Adobe After Effects and Premiere Pro were used to produce a video showcasing the gameplay. Due to time constraints, a video format was chosen to demonstrate the activities with audio, rather than a full high-fidelity Figma prototype, which would require extensive adjustments. "
+        ],
+        "img": "../assets/img/design/projects/anathema/intro.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Paper",
+        "description1": [
+            "“HELEN’S MISSION: ACCESSIBLE TUNNELS” A SERIOUS-CRITICAL DIGITAL GAME TO PRACTISE WEB ACCESSIBILITY FOR WEB DESIGNERS AND WEB DEVELOPERS” was included on the 17th annual International Conference of Education, Research and Innovation (ICERI 2024)"
+        ],
+        "externalLinkName": [
+            "Check Paper here"
+        ],
+        "externalLinkUrl": [
+            "https://library.iated.org/view/VILAMAIOR2024JAN"
+        ],
+        "vid": "https://www.youtube.com/embed/xXbhn8bA-48?si=yPMds1m5R6U3I5Sc"
+    }
+]

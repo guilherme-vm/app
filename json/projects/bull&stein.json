@@ -1,0 +1,84 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "ALT",
+        "introDate": "May 2024 – November 2024",
+        "type": "Freelance Project",
+        "typeDescription": "4Humanz",
+        "coauthor": [
+            "<a href='https://matildeferreira.github.io/'  target='_blank'>Matilde Ferreira</a>"
+        ],
+        "designTools": [
+            "Figma",
+            "Adobe Photoshop"
+        ],
+        "img": "../assets/img/design/projects/bull/cover.jpg"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "BULL & STEIN is an art gallery established in 2003, renowned for its extravagant fruit sculpture collections. Their website and online store were redesigned to enhance the user experience, focusing on simplifying the browsing and shopping journey for their unique fruit collections."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Prototype",
+        "img": "../assets/img/design/projects/bull/prototype.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Website Features",
+        "titleH3": "Collections",
+        "description1": [
+            "The redesigned Collections section highlights BULL & STEIN’s iconic fruit sculptures with a clean layout. Each collection is visually presented with the available fruit shapes for each collection. Inside, visitors can check the different forms, finishes, and materials colours and sizes while appreciating the artistry behind each piece."
+        ],
+        "img": "../assets/img/design/projects/bull/collection1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "img": [
+            "../assets/img/design/projects/bull/collection2.jpg",
+            "../assets/img/design/projects/bull/collection3.jpg",
+            "../assets/img/design/projects/bull/collection4.jpg",
+            "../assets/img/design/projects/bull/collection5.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Catalogues",
+        "description1": [
+            "The Catalogues page provides a direct browsing experience for the various BULL & STEIN’s product catalogues. "
+        ],
+        "img": "../assets/img/design/projects/bull/catalogues1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Store",
+        "description1": [
+            "The new Shop integrates seamlessly into the overall design, allowing visitors to purchase sculptures directly online. Filtering from collections, shapes, to colours, sizes and materials. The interface provides the user with an easy and direct shoping experience, ensuring that the shopping journey feels as curated and refined as the artworks themselves."
+        ],
+        "img": "../assets/img/design/projects/bull/store1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "img": [
+            "../assets/img/design/projects/bull/store2.jpg",
+            "../assets/img/design/projects/bull/store3.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    }
+]

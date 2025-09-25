@@ -1,0 +1,178 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "InterAlumni",
+        "introDate": "Dec 2021 — Mar 2022",
+        "type": "Curricular Project",
+        "typeDescription": "Interaction Design, Web and Games Specialization Course<br>Faculty of Fine Arts, University of Porto",
+        "designTools": [
+            "Figma"
+        ],
+        "developTools": [
+            "HTML & CSS",
+            "JavaScript (jQuery)"
+        ],
+        "img": "../assets/img/design/projects/interAlumni/cover.png"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "Arriving to a new country, Setting up your new life in a new school, in a new country can be quite challenging. InterAlumni steps up as a way to ease the beginning of such process, and provide a platform to enhance the overall experience that comes with being an Erasmus student. From the culture of the city, to renting a room and dealing with the bureaucracy put on the table from the Erasmus program , you can rely on InterAlumni —and the student community— to tell you all about the latest events in all your favourite categories, and have an easy way at."
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "User Research",
+        "titleH3": "Questionnaire",
+        "description1": [
+            "In order to be as wide as possible, a Google Form was done to recognise what were the students’ interests and where did they struggle the most during their Erasmus. The form counted with the response from 113 past Erasmus students, mostly students coming from Portugal, Spain and Italy.",
+            "The demographic data provides a general overview of the Erasmus students, mostly from Portugal, Spain, and Italy. Most participants studied in Porto, Portugal, with 73.4% attending during the first semester. Key topics included public transport (well understood), local language (challenging), social integration (generally smooth), housing (some difficulty), and Erasmus bureaucracy (mixed feedback). Communication with local students was limited, though highly desired. Cultural activities, nightlife, local cuisine, flea markets, and study spaces were top interests. Open-ended responses highlighted travel as a major positive experience, while common challenges included language barriers, housing, bureaucracy, and financial issues. Social integration proved crucial, especially during the program's early phase. Despite obstacles, students emphasized making the most of the experience. The core advice was to say “yes” to opportunities, embrace the moment, and trust the process"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Interviews",
+        "description1": [
+            "3 interviews were conducted with past Erasmus students.",
+            "Erasmus students in Porto value social connections, spontaneity, and personal growth. Friendships formed through informal meetups were more meaningful than large organized events. Bureaucracy and housing posed early challenges, often causing stress. Students appreciated autonomy, explored the city freely, and highlighted the importance of emotional connections. Seasonal changes influenced habits—beaches in spring, indoor gatherings in winter. Despite low expectations, most had transformative experiences. Supporting smoother onboarding, encouraging small-group interaction, and sharing local tips can greatly enhance the Erasmus journey."
+        ]
+    },
+    {
+        "templateType": "project-user-persona",
+        "titleH2": "User Persona",
+        "userPersonas": [
+            {
+                "name": "Claudia, 20 years old, Spanish",
+                "image": "../assets/img/design/projects/interAlumni/persona.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "Claudia enjoys a quiet breakfast at a cozy café before heading to school. She's a dedicated and hardworking student who prefers to complete her tasks before taking part in new experiences. Despite being new to the city, Claudia loves exploring unfamiliar places and isn't afraid to go on solo adventures to meet new people and discover what the city has to offer."
+                        ]
+                    },
+                    {
+                        "title": "Points of interest",
+                        "description": [
+                            "Museum dates",
+                            "Cultural events",
+                            "Small live music gigs",
+                            "Going to the beach",
+                            "Discovering the city"
+                        ]
+                    },
+                    {
+                        "title": "Needs",
+                        "description": [
+                            "Places to study",
+                            "Good relation with locals",
+                            "Feels best when she’s having a good laugh with friends"
+                        ]
+                    },
+                    {
+                        "title": "Expectations",
+                        "description": [
+                            "Wants to keep a balance between her studies and social life",
+                            "She wants to make Erasmus friends for life",
+                            "She might be open for an “Erasmus Fling”",
+                            "Open to new experiences"
+                        ]
+                    },
+                    {
+                        "title": "Frustrations",
+                        "description": [
+                            "Hard time finding events to go to",
+                            "Not having a group of friends to go to events with",
+                            "Hard time finding new experiences"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "templateType": "project-user-scenarios",
+        "titleH2": "User Scenarios",
+        "userScenarioTitles": [
+            "Ask For Advice",
+            "Sharing Events",
+            "Bureaucratic Process"
+        ],
+        "userScenarioDescriptions": [
+            "Claudia is an ERASMUS student in Plastic Arts at FBAUP and is in her room to advance a piece of Sculpture for a delivery that she will have, and in the middle of her work she decided to include Glass in her piece; but she doesn't have it, and doesn't know where she can buy it. To solve the situation, Claudia opens the InterAlumni application so she can ask her colleagues in Fine Arts if anyone knows where she can buy the Glass. Since she has the application open, Claudia remembers that she hasn't been to Maus Hábitos yet, so she takes the opportunity to search for events and activities that will take place at Maus Hábitos in order to plan a visit, leaving a 'like' on her favorite event, so that she can come back to the publication later.",
+            "Claudia is having coffe with her friends outdoors, while chatting with them they start making plans to get together outside the college in a Rooftop event downtown and they also showed her the ESMAE Jazz Jam Session. Claudia, who didn't know either the Bar or the Jam Session, saw a good opportunity to promote these events with the rest of the students in case someone else didn't know about them and was interested. For this, Claudia opens InterAlumni and shares both events in the application, so that all students can see, and, who knows, go too.",
+            "Claudia is having two complications, she is not sure about some documents she has to submit to go ahead with the bureaucratic process to get the scholarship, and she is not at all satisfied with her room that will be her home for the next 5 months. In order to solve these situations, Claudia opens InterAlumni so that she can communicate with Ms. Fernanda from the International Relations Office of the FBAUP in order to clear up her doubts regarding what is missing to move forward with the process and, while waiting for an answer, she goes looking for a new room through the rental platforms provided by InterAlumni."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Wireflows",
+        "description1": [
+            "The first step in designing the app was to create wireflows, which mapped out the user navigation across various screens through low‑fidelity sketches."
+        ],
+        "img": [
+            "../assets/img/design/projects/interAlumni/wireflows1.jpg",
+            "../assets/img/design/projects/interAlumni/wireflows2.jpg",
+            "../assets/img/design/projects/interAlumni/wireflows3.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Prototype",
+        "vid": "https://www.youtube.com/embed/jK8JjsC99mk?si=U7AR8NacgbqjklCD"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Usability Testing",
+        "description1": [
+            "Due to lack of time within the set duration for the project and its stages, an Usability Test was done only for the High-Fidelity prototype. This test had the participation of 6 University Students and Erasmus Students. With this test I came to conclusions that some wording and some visual changes would need to take place. You can check the final prototype iteractions below."
+        ],
+        "buttons": [
+            "Labels",
+            "Dropdown",
+            "Subcategories",
+            "Arrow",
+            "Dictionary",
+            "Contacts"
+        ],
+        "buttonsAria": [ 
+            "Show 'Labels' prototype iteration",
+            "Show 'Dropdown' prototype iteration",
+            "Show 'Subcategories' prototype iteration",
+            "Show 'Arrow' prototype iteration",
+            "Show 'Dictionary' prototype iteration",
+            "Show 'Contacts' prototype iteration"
+        ],
+        "description": [
+            "Given the difficulty from the users to start a Post Search, there was a need to add Labels to the bottom menu. The Comment icon also needed an update.",
+            "To fix unnecessary scroll on selecting the category for the new post, a drop-down box style was swapped with a light box selection, seperating even further the list from the background. This way, the user will understand 'ok, these are my only options'",
+            "By introducing the Subcategories with a short description, the User can know more about what to expect inside.With the testing, it was verified that the title 'Platforms' wasn't fully understood by the users. Something also verified in these Subcategories screens, was the need to add a Return arrow back Home from the Subcategories, mainly to keep the flow from the content inside these.",
+            "Similar to the previous Iteration, there was a need to add the Back Arrow, the small description, and some changes to the Subcategories titles.",
+            "As the same as the previous iteration, it was added a Search Bar to the Portuguese category screen for a smoother and facilitated experience.",
+            "By suggestion of a User, to simplify the Users' lives, it was added a Search Bar to the Contacts screen, in order to easily find the contact"
+        ],
+        "img": [
+            "../assets/img/design/projects/interAlumni/iteration-01.png",
+            "../assets/img/design/projects/interAlumni/iteration-02.png",
+            "../assets/img/design/projects/interAlumni/iteration-03.png",
+            "../assets/img/design/projects/interAlumni/iteration-04.png",
+            "../assets/img/design/projects/interAlumni/iteration-05.png",
+            "../assets/img/design/projects/interAlumni/iteration-06.png"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    }
+
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "alt",
+        "introDate": "February 2021 - June 2021",
+        "type": "Curricular Internship",
+        "typeDescription": "Faculty of Fine Arts of University of Porto <br>FEUP—LGP",
+        "designTools": [
+            "Illustrator",
+            "Figma"
+        ],
+        "img": "../assets/img/design/projects/platypus/intro.gif"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "During my curricular internship, I worked within the Platypus Creative Solutions company, a start‑up company created in the Project Management Laboratory course at the Faculty of Engineering, University of Porto. As the company’s Head Designer, I developed the company's visual identity."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Logo",
+        "titleH3": "Concept",
+        "description1": [
+            "Through the side view of the Platypus' beak, you can find a small detail in shape of a 'P', that, through some transformations, originates what would be the essencial key for the final logo construction."
+        ],
+        "img": "../assets/img/design/projects/platypus/concept.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Grid",
+        "description1": [
+            "Taking this symbol and flipping it horizontally and vertically, making it 4 (representing the 4 teams that take part in the company), and rounding the edges, giving life to the final symbol."
+        ],
+        "img": [
+            "../assets/img/design/projects/platypus/grid.png",
+            "../assets/img/design/projects/platypus/anim.gif"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Margins",
+        "img": [
+            "../assets/img/design/projects/platypus/logoGridSymbol.jpg",
+            "../assets/img/design/projects/platypus/logoGridSymbol2.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Colour Scheme",
+        "img": "../assets/img/design/projects/platypus/colour.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Typography",
+        "titleH3": "GT Walsheim Pro",
+        "description1": [
+            "The typography chosen for the logo was the sans serif font GT Walsheim Pro. This font goes for the logo, and for titles shared throughout social media, website and company documents."
+        ],
+        "img": "../assets/img/design/projects/platypus/GT.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "DIN",
+        "description1": [
+            "The typography chosen to complement the main font is DIN font. An also sans serif font, used for the rest of the text representing the visual aspect of the company’s written information, those being through website and social media text boxes, and also the documents’ text."
+        ],
+        "img": "../assets/img/design/projects/platypus/DIN.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Logo Application",
+        "img": [
+            "../assets/img/design/projects/platypus/logoApp0.png"
+        ],
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "img": [
+            "../assets/img/design/projects/platypus/logoApp1.jpg",
+            "../assets/img/design/projects/platypus/logoApp2.jpg",
+            "../assets/img/design/projects/platypus/logoApp3.jpg",
+            "../assets/img/design/projects/platypus/logoApp4.jpg",
+            "../assets/img/design/projects/platypus/logoApp5.jpg",
+            "../assets/img/design/projects/platypus/logoApp6.jpg",
+            "../assets/img/design/projects/platypus/logoApp7.jpg",
+            "../assets/img/design/projects/platypus/logoApp8.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    }
+]

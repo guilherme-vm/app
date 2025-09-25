@@ -1,0 +1,375 @@
+[
+    {
+        "templateType": "projectIntro",
+        "introName": "PROJECT NAME",
+        "thumbnailAlt": "ALT",
+        "introDate": "December 2022 — October 2023",
+        "type": "Professional Project",
+        "typeDescription": "Rectory of University of Porto",
+        "designTools": [
+            "Figma"
+        ],
+        "developTools": [
+            "HTML & CSS",
+            "Javascript (jQuery",
+            "Machine Learning"
+        ],
+        "img": "../assets/img/design/projects/s4ng/cover.png"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Context",
+        "description1": [
+            "Anathema is a gamified mobile app developed in collaboration with Fraunhofer AICOS to enhance young adults' sexual health. While Fraunhofer's original and parent project targeted a different audience, both aimed to improve couples' sexual health. Throughout the project, we received valuable mentorship from Dr. Ana Barros and Joana Couto from Fraunhofer‑AICOS."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "User Research",
+        "description1": [
+            "Our user research combines interviews for personal insights, focus groups for shared perspectives, shadowing to observe real behaviors, and cultural probes to capture everyday experiences.<br> Made with <a class='inlineLink2' target='_blank' href='https://www.cienciavitae.pt/portal/8C1F-A6A6-1EB3'>Viviane Peçaibes</a>"
+        ],
+        "externalLinkName": ["View User Research document"],
+        "externalLinkUrl": ["../files/s4ng-userResearch.pdf"],
+        "img": "../assets/img/design/projects/s4ng/research.png",
+        "imgAlt": "teste 1"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Mind Map",
+        "img": "../assets/img/design/projects/s4ng/mindMap.jpg",
+        "imgAlt": "teste 2"
+    },
+    {
+        "templateType": "project-user-scenarios",
+        "titleH2": "User Scenarios",
+        "userScenarioTitles": [
+            "Sharing Experiences & Disseminating Strategies",
+            "Gamified Content",
+            "Sharing Experiences & Classroom Support",
+            "Information Content"
+        ],
+       
+        "userScenarioDescriptions": [
+            "Flora, who is still at the beginning of the first semester of her Master's degree, went to her Algebra class as she had every time before. Although she feels that she doesn't always have the same access to the lessons and their contents as the rest of her classmates, she always makes an extra effort to keep up with the subject and always manages to solve the proposed exercises. However, that day's lesson was different for Flora. The teacher came to class with new teaching methods. This lesson was more accessible to Flora, allowing her to follow the lesson in a more inclusive way, being 'on an equal footing' with her classmates. At the start of the academic year, the academic community was informed of the existence of the Skills For Next Generation platform, where the academic community could share their experiences of inclusion and accessibility within it. When she got home after classes, Flora was thinking about how included she felt with her teacher's new methods, and, knowing that she has classmates in the same situation as her, but who don't have the same teacher, she decided to use the platform to share her experience. Navigating through the Platform with the help of Assistive Technology, Flora navigates to the section for sharing experiences, where, using the 'Speech-to-text' feature, she explains how she felt, reporting on the methods used by the Teacher, in the hope that other Teachers can see this information and adapt these new methods to their classes.",
+            "Marco was on the terrace of his college with his group of friends from class who were helping him organize movements for LGBTQIA+ inclusion and Autism in the student community because these are causes that directly affect them. It was during a study break that he noticed a poster advertising the Skils For Next Generation platform. Curious about the content of this poster, he decided to open his computer's browser and explore this platform. While browsing the platform, Marco noticed a section of gamified content, a set of games, both physical and digital, available to him on the platform, and, in a moment of leisure, he decided to try them out with his friends on the terrace. After exploring the set of games, they noticed that they really do boost learning in an accessible and inclusive way. Marco then had the idea of writing an e-mail to some of his teachers and sharing this new discovery with them. Recounting his experience with the games (and that of the rest of his classmates), Marco encouraged the teachers to use these alternative means of teaching in their classes, given that the different classes have students with various physical and psychological disabilities. To the delight of the students, most of the teachers were very receptive to this e-mail and effectively adapted these games to their classes, thus creating more fun learning moments in which all the students could participate and learn.",
+            "Artur is not a very modern teacher, but that's something he'd like to try to change, but doesn't quite know how. Professor Artur's classes are auditorium classes, where he has hundreds of students in front of him, without much opportunity to not only offer good support to all his students, but he himself has difficulty understanding the difficulties of his various students. The lecturer has a specific curricular unit that is attended by blind students, and I thought it was time to find new teaching methods that were more accessible to these students, so I decided to use my weekend to try to find a solution. On Saturday morning, he went to UP's Skills For Next Generation online platform, where he searched for information relevant to the situation. In the midst of this search, Professor Artur came across a share made by a student who was also blind, Flora. Professor Artur spent the weekend discussing the experience shared by this student, knowing that he himself would like to provide a similar experience for his blind students. So he analyzed the subject matter of his classes and explored the best way to adapt the other teacher's methods to his classes. The following week it was time to put these new methods into practice. They didn't change the learning of the class as a whole (non-blind students), but they were much appreciated and used by the blind students, who felt the subject matter was much more accessible. After this lesson, the teacher decided to develop new versions of these methods and share them on the platform so that other teachers can access them too.",
+            "Carla has been a member of staff at her college's library for a couple of decades now, and over all these years she has seen all kinds of students pass through this place, from international students to students with physical and/or psychological problems. These students often use the space as a place to work, but they also like to take part in the various activities proposed by Carla in the Library. However, Carla sometimes struggles to make these activities 100% inclusive and accessible to all students, and this is something Carla wants to improve. To start this process of change, Carla turned to the Skills For Next Generation platform in search of information to adapt her activities. However, Carla herself is partially sighted and sometimes finds it difficult to read text on the monitor if the text is too small, but the platform allows her to increase the font size to one that gives her a better reading experience. Already with an accessible font size, Carla navigates in search of information that will provide her with a more inclusive vocabulary, and how to have better communication (above all) with Students with Special Educational Needs (SEN). With time and practice, Carla develops speech and activities that are more inclusive and accessible to all students, so that they get the best out of them. In addition, Carla sometimes likes to explore the platform and read about students' experiences, so that she can get direct information on how she can have a better presence and take more correct attitudes towards other students, gradually learning how she can become a more accessible citizen."
+        ]
+    },
+    {
+        "templateType": "project-user-persona",
+        "titleH2": "User Persona",
+        "buttonFlexCat":"buttonFlexCat",
+        "userPersonas": [
+            {
+                "name": "Flora",
+                "image": "../assets/img/design/projects/s4ng/persona1.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "Flora is a blind student of the Masters in Mathematics at FCUP."
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Little are the classes Flroa can particiapte and obtain information, given that she doesn’t have the same access to information as her colleague, specially cause most of the classes are theorical with visual support, and her Professors don’t have the material accessible."
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Reading sessions at the School’s Library."
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Be a High School teacher;",
+                            "Have a friend group that supports her and includes her."
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Be more included during classes and  their activities;",
+                            "Have more follow-ups with professors;",
+                            "Have more work and study resources."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marco",
+                "image": "../assets/img/design/projects/s4ng/persona2.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "LGBT Master's Student"
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Sometimes he doesn’t feel recognized as the person he is, not only by some of the students, but sometimes also by the professors."
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "College parties;",
+                            "Lead and participate in manifestations with other students;",
+                            "Has a Youtube channel where he talks about some of his experiences."
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Create an association of support to the trans student community."
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Surround himself with an environment that doesn’t make him unconfortable."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Artur",
+                "image": "../assets/img/design/projects/s4ng/persona3.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "Philosophy Professer at FLUP "
+                        ]
+                    },
+                    {
+                        "title": "Struggles",
+                        "description": [
+                            "Doesn’t know where to start or where to find resources to make his classes more inclusive and accessible;",
+                            "Classes with a high number of students."
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Fun activities to offer a better learning, and that it sparks more interest on his students."
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Make his classes more accessible; ",
+                            "Use a more inclusive vocabulary in his classes."
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Success for his students;",
+                            "Offer the best possible for his students."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Carla",
+                "image": "../assets/img/design/projects/s4ng/persona4.jpg",
+                "categories": [
+                    {
+                        "title": "Description",
+                        "description": [
+                            "Staff with low mobility"
+                        ]
+                    },
+                    {
+                        "title": "Difficulties",
+                        "description": [
+                            "Due to the library’s location, she sometimes has more difficult to reach her work place"
+                        ]
+                    },
+                    {
+                        "title": "Interests",
+                        "description": [
+                            "Read stories and create activies when she’s not attending the students;",
+                            "Organize reading sessions and dialogue about various books."
+                        ]
+                    },
+                    {
+                        "title": "Ambitions",
+                        "description": [
+                            "Learn to be a professional accessible to all of the students;",
+                            "Make everyone feel welcome in the library"
+                        ]
+                    },
+                    {
+                        "title": "Desires",
+                        "description": [
+                            "Have a more accessible library to all of the students;",
+                            "Have more content at the Library about Inclusion;",
+                            "Have more support when it comes to resources access."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Requirements",
+        "description1": [
+            "Based on the conducted user research and the brainstorm session a list of requirements was compiled encompassing funactional, informative, context and experience requirements of the application."
+        ],
+        "externalLinkName": [
+            "See Full Requirements (PT)"
+        ],
+        "externalLinkUrl": [
+            "../files/S4NG_Requirements.pdf"
+        ],
+        "img": "../assets/img/design/projects/s4ng/requirements.png",
+        "imgAlt": "teste 3"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Wireflows",
+        "img": [
+            "../assets/img/design/projects/s4ng/wireflow1.jpg",
+            "../assets/img/design/projects/s4ng/wireflow2.jpg",
+            "../assets/img/design/projects/s4ng/wireflow3.jpg"
+        ],
+        "imgAlt": [
+            "teste 4",
+            "teste 5",
+            "teste 6"
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Prototype",
+        "titleH3": "Low-Fidelity",
+        "buttonFlexCat":"buttonFlexCat",
+        "buttons": [
+            "Teaching & Learning",
+            "Gamification",
+            "Experiences",
+            "Archive"
+        ],
+        "buttonsAria": [
+            "show Teaching & Learning low-fidelity interface",
+            "show Gamification low-fidelity interface",
+            "show Experiences low-fidelity interface",
+            "show Archive low-fidelity interface"
+        ],
+        "img": [
+            "../assets/img/design/projects/s4ng/LowFi_Politics.jpg",
+            "../assets/img/design/projects/s4ng/LowFi_Games.jpg",
+            "../assets/img/design/projects/s4ng/LowFi_Exp.jpg",
+            "../assets/img/design/projects/s4ng/LowFi_Archive.jpg"
+        ],
+        "imgAlt": [
+            "teste 7",
+            "teste 8",
+            "teste 9",
+            "teste 10"
+        ]
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH3": "High-Fidelity",
+        "buttonFlexCat":"buttonFlexCat2",
+        "buttons": [
+            "Teaching & Learning",
+            "Gamification",
+            "Experiences",
+            "Archive",
+            "Visualizer"
+        ],
+        "buttonsAria": [ 
+            "show Teaching & Learning high-fidelity interface",
+            "show Gamification high-fidelity interface",
+            "show Experiences high-fidelity interface",
+            "show Archive high-fidelity interface",
+            "show Visualizer high-fidelity interface"
+        ],
+        "img": [
+            "../assets/img/design/projects/s4ng/highFi_Politics.jpg",
+            "../assets/img/design/projects/s4ng/highFi_Games.jpg",
+            "../assets/img/design/projects/s4ng/highFi_Exp.jpg",
+            "../assets/img/design/projects/s4ng/highFi_Archive.jpg",
+            "../assets/img/design/projects/s4ng/highFi_Visualizer.jpg"
+        ],
+        "imgAlt": [
+            "teste 11",
+            "teste 12",
+            "teste 13",
+            "teste 14",
+            "teste 15"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Usability Testing",
+        "description1": [
+            "The prototype was tested with 8 (eight) possible users (3 (three) professors and 5 (five) students), one of the main conclusions to look over is the nomenclature and choice of titles for the categories and sub-categories in the filter section. Most of the results showed that the platform’s structure was easy to understand and navigate, and with important type of content that the users see themselves resort to in situations of academic purposes, or simply for the inclusivity and accessibility from the content."
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Platform Video",
+        "vid": "https://www.youtube.com/embed/4cqXp81ICGQ?si=ikUxEgVNArJPtKNr"
+    },{
+        "templateType": "project-description",
+        "titleH2": "Platform Games",
+        "vid": "https://www.youtube.com/embed/Kd7lgOrTqwY?si=wcogW_xJkmzRfx-2"
+    },
+    {
+        "templateType": "project-description-buttons",
+        "titleH2": "Gamification",
+        "description1": [
+            "After the brainstorming and prototyping sessions, our team began developing game concepts for the platform. We created low-fidelity prototypes to identify potential challenges or difficulties in player interactions and to validate, even informally, some of the concepts with potential target audiences. Following this stage, I proceeded with the development of the final games. Below is a selection of the games created, representing only a portion of the full set."
+        ],
+        "buttons": [
+            "Taboo",
+            "Bubble Wrap",
+            "Memory",
+            "Tesouro",
+            "Shadow"
+        ],
+        "buttonsAria": [
+            "show 'Tabbo' gamification",
+            "show 'Bubble Wrap' gamification",
+            "show 'Memory' gamification",
+            "show 'Tesouro' gamification",
+            "show 'Shadow' gamification"
+        ],
+
+        "description": [
+            "This digital quizz game is designed for the LGBTQIA+ community, aimed at students, teachers, or staff of any age with digital literacy. It can be played both during and outside of class time, with a maximum duration of 30 minutes. The game serves as a tool to support conversations and debates about everyday LGBTQIA+ situations and was developed using HTML, CSS, and JavaScript (jQuery).",
+            "This digital game is designed for people with anxiety, obsessive-compulsive disorders, and/or panic attacks. It is intended for students, teachers, or staff of any age, regardless of their level of digital literacy. The game can be played on a computer, tablet, or mobile device (responsive) with internet access, and it has no predetermined time limit, allowing it to be used during moments of crisis. Its main purpose is to support self-control and help manage crises, serving as a calming and self-regulation activity. It is developed using HTML, CSS, and JavaScript (jQuery).",
+            "This customizable digital game is designed for students with dyslexia, autism, or learning difficulties, regardless of age or level of digital literacy. It can be played outside of class time on a computer, tablet, or mobile device (responsive) with internet access, with a maximum duration of 20 minutes. The game aims to support content retention and help students study for exams, making learning more accessible and engaging. It is developed using HTML, CSS, and JavaScript (jQuery).",
+            "This hybrid digital game is designed for international students of any age, combining both digital and real-world experiences. Played outside of class time on a smartphone with internet access, the game encourages students to explore the different buildings of the University of Porto (UP). Its results are personal, helping players get to know the campus while promoting engagement with the university’s environment and its various courses. Additionally, it highlights the architecture and history of UP. The game was designed by another colleague, and I developed it using HTML, CSS, and JavaScript (jQuery), with external support for cache and game memory.",
+            "This digital augmented reality game is designed for the Deaf community, while also engaging LGBTQIA+ players, and is intended for students, teachers, and staff of any age with digital literacy. With a maximum playtime of 20 minutes, it can be accessed on a computer, tablet, or mobile device (responsive) with internet and AR capabilities. The game aims to support non-deaf individuals in learning basic gestures of Portuguese Sign Language, fostering inclusion and communication. It is developed using HTML, CSS, and JavaScript (jQuery), with machine learning for computer vision to recognize players’ hand gestures."
+        ],
+        "img": [
+            "../assets/img/design/projects/s4ng/taboo.png",
+            "../assets/img/design/projects/s4ng/bubble.gif",
+            "../assets/img/design/projects/s4ng/memory.jpg",
+            "../assets/img/design/projects/s4ng/tesouro.png",
+            "../assets/img/design/projects/s4ng/shadow.gif"
+        ],
+        "imgAlt": [
+            "teste 16",
+            "teste 17",
+            "teste 18",
+            "teste 19",
+            "teste 20"
+        ]
+        
+    }
+]

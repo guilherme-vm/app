@@ -1,0 +1,114 @@
+[
+    {
+        "url": "projects/s4ng.php",
+        "title": "Skills For a Next Generation",
+        "date": "December 2022 - October 2023",
+        "img": "assets/img/design/s4ng.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/bull&stein.php",
+        "title": "BULL & STEIN",
+        "date": "May 2024 - November 2024",
+        "img": "assets/img/design/bullstein.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/anathema.php",
+        "title": "Anathema",
+        "date": "March 2022 - June 2022",
+        "img": "assets/img/design/anathema.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/coro.php",
+        "title": "Coro Mozart de Viseu",
+        "date": "December 2024 — June 2025",
+        "img": "assets/img/design/coro.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/populations.php",
+        "title": "Populations",
+        "date": "May 2024 - July 2024",
+        "img": "assets/img/design/populations.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/anglophonetravellersinportugal.php",
+        "title": "Anglophone Travellers in Portugal",
+        "date": "November 2023 - May 2024",
+        "img": "assets/img/design/cetaps.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/janedoe.php",
+        "title": "Jane Doe's Mission",
+        "date": "October 2023 - October 2024",
+        "img": "assets/img/design/janedoe.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/interalumni.php",
+        "title": "InterAlumni",
+        "date": "December 2021 - March 2022",
+        "img": "assets/img/design/interalumni.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/traqueno.php",
+        "title": "Traqueno",
+        "date": "February 2023 - June 2023",
+        "img": "assets/img/design/traqueno.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projectS/breakstars.php",
+        "title": "BREAKStarS",
+        "date": "January 2022 - May 2022",
+        "img": "assets/img/design/breakstars.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "projects/skytales.php",
+        "title": "Sky Tales",
+        "date": "October 2021 - November 2021",
+        "img": "assets/img/design/skytales.jpg",
+        "alt": "teste",
+        "category": "interactionCard"
+    },
+    {
+        "url": "design.php",
+        "title": "DotLab",
+        "date": "2023",
+        "img": "assets/img/design/empty.jpg",
+        "alt": "teste",
+        "category": "interactionCard brandingCard"
+    },
+    {
+        "url": "projects/platypus.php",
+        "title": "Platypus",
+        "date": "February 2021 - June 2021",
+        "img": "assets/img/design/platypus.jpg",
+        "alt": "teste",
+        "category": "brandingCard"
+    },
+    {
+        "url": "projects/erasmus+.php",
+        "title": "Erasmus+",
+        "date": "February 2020 - June 2020",
+        "img": "assets/img/design/erasmus.jpg",
+        "alt": "teste",
+        "category": "brandingCard"
+    }
+]

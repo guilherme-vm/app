@@ -1,0 +1,118 @@
+[
+    {
+        "templateType": "projectIntro",
+        "thumbnailAlt": "ALT",
+        "introDate": "February 2020 — June 2020",
+        "type": "Academic Project",
+        "typeDescription": "Faculty of Fine Arts of University of Porto",
+        "designTools": [
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Adobe After Effects"
+        ],
+        "img": "../assets/img/design/projects/erasmus+/intro.png"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Brand Guidelines ",
+        "img": "../assets/img/design/projects/erasmus+/guidelines.jpg",
+        "imgAlt": "testeeeeeeee",
+        "externalLinkName": [
+            "Open Full Document"
+        ],
+        "externalLinkUrl": [
+            "../assets/img/design/projects/erasmus+/guidelines.pdf"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Logo ",
+        "titleH3": "Concept",
+        "description1": [
+            "The Erasmus project serves to bring students and learning staff together, for those who share the love of learning, travelling and new experiences. The logo proposal for the brand consists on 3 elements (with 3 articulations). The main piece is the junction between the “e” and the stars, complementing it there is the “Erasmus+” written underneath.",
+            "The stars resemble the European foundation on the project, and come from the European Union flag, surrounding the white “e” element, this one coming from the union of an “e”, from “erasmus”, with a plus, in shape of an airplane to represent the internacionality and travelling of the project. To complete the logo, in a written form underneath, there is a written identification of the brand."
+        ],
+        "img": "../assets/img/design/projects/erasmus+/concept.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Grid",
+        "img": "../assets/img/design/projects/erasmus+/grid.gif",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Margins",
+        "img": [
+            "../assets/img/design/projects/erasmus+/margins1.png",
+            "../assets/img/design/projects/erasmus+/margins2.png",
+            "../assets/img/design/projects/erasmus+/margins3.png",
+            "../assets/img/design/projects/erasmus+/margins4.png"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Colour Scheme",
+        "description1": [
+            "The colors for the brand revolve around 3 colors - white, gold and blue - the gold is from the flag’s stars, the blue is in a darker shade of the blue from the flag as well, and lastly the white for the “e” and “erasmus+” for ease of reading and make it pop. The logo can be placed on top of a variety of backgrounds, the colors of the logo may vary depending on the background, however, the stars should always remaing with their golden color (with only one exception), changing only the “e” and the “erasmus+”, switching between white and blue."
+        ],
+        "img": [
+            "../assets/img/design/projects/erasmus+/colour.png",
+            "../assets/img/design/projects/erasmus+/colour2.png"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Typography",
+        "titleH3": "Lovelo",
+        "img": "../assets/img/design/projects/erasmus+/type1.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH3": "Qanelas",
+        "img": "../assets/img/design/projects/erasmus+/type2.jpg",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-description",
+        "titleH2": "Printing Dimensions",
+        "img": "../assets/img/design/projects/erasmus+/print.png",
+        "imgAlt": "testeeeeeeee"
+    },
+    {
+        "templateType": "project-image-grid",
+        "titleH2": "Logo Application",
+        "img": [
+            "../assets/img/design/projects/erasmus+/logoApp1.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp2.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp3.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp4.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp5.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp6.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp7.jpg",
+            "../assets/img/design/projects/erasmus+/logoApp8.jpg"
+        ],
+        "imgAlt": [
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee",
+            "testeeeeeeee"
+        ]
+    }
+]

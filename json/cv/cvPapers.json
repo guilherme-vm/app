@@ -1,0 +1,30 @@
+[
+    {
+        "title": "<span>Conference</span><br>17th annual International Conference of Education, Research and Innovation",
+        "subtitle": "<a href='https://library.iated.org/view/VILAMAIOR2024JAN'>10.21125/iceri.2024.2240</a>",
+        "description1": "'Jane Doe’s Mission: A Serious-Critical Digital Game for Web Designers and Developers to Train Web Accessibility for Screen Readers'",
+        "description2": ["Guilherme Vila Maior", "Bruno Giesteira", "Viviane Peçaibes de Mello"],
+        "date": "November 2024"
+    },
+    {
+        "title": "<span>In Book</span><br>Universal Access in Human-Computer Interaction",
+        "subtitle": "<a href='https://link.springer.com/chapter/10.1007/978-3-031-60884-1_2'>10.1007/978-3-031-60884-1_2</a>",
+        "description1": "'Towards Inclusion in Higher Education: The Case of the Skills for a Next Generation Project'",
+        "description2": ["Bruno Giesteira", "Viviane Peçaibes de Mello", "Pedro Cardoso", "Guilherme Vila Maior", "Isabel Quaresma"],
+        "date": "June 2024"
+    },
+    {
+        "title": "<span>In Book</span><br>'Exploring Educational Equity at the Intersection of Policy and Practice'",
+        "subtitle": "<a href='https://www.igi-global.com/chapter/inclusivity-play/347729'>10.4018/979-8-3693-1614-6.ch007</a>",
+        "description1": "'Inclusivity Play: Web Platform and Games for Inclusion and Diversity in the University - The Skills for a Next-Generation Project'",
+        "description2": ["Bruno Giesteira", "Viviane Peçaibes de Mello", "Pedro Cardoso", "Guilherme Vila Maior", "Isabel Quaresma"],
+        "date": "June 2024"
+    },
+    {
+        "title": "<span>Conference</span><br>15th International Conference on Education and New Learning Technologies",
+        "subtitle": "<a href='https://library.iated.org/view/GIESTEIRA2023SOC'>10.21125/edulearn.2023.1399</a>",
+        "description1": "'The Social Role Of Digital Design In Inclusion And Diversity: A Reflection-In-Action Approach In The Context Of The Skills For A Next Generation Project'",
+        "description2": ["Bruno Giesteira", "Viviane Peçaibes de Mello", "Luísa Lino", "Guilherme Vila Maior"],
+        "date": "June 2023"
+    }
+]

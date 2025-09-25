@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Higher Technician <br>Design Department",
+        "subtitle": "Faculty of Fine Arts of University of Porto",
+        "description1": "Massa faucibus commodo sem vitae eget in dui eu. Magna sit sem ligula ut ut imperdiet tortor. Consectetur amet blandit tincidunt adipiscing vel sagittis rhoncus auctor. Velit non sed orci varius tincidunt in sed etiam. Quis pellentesque tincidunt maecenas porta viverra interdum turpis mattis. Dictum tristique faucibus donec sapien morbi. Hendrerit maecenas ",
+        "date": "January 2024<br>August 2026"
+    },
+    {
+        "title": "UI Designer; <br>Front-End Developer",
+        "subtitle": "Rectory of University of Porto",
+        "description1": [
+            "Funded by POCH, I was apart of the team in the axis 4.2 coordinated by Prof. Dr. Bruno Giesteira, for the project Skills For a Next Generation. For this project I took part in designing the UI for an online platform. Starting with the User Research with my colleague Viviane Peçaibes, and Low-Fidelity and High-Fidelity Prototyping using Figma and Usability Tests.",
+            "I also took part in help designing some of the digital games that would be present in the platform, and implemented them using HTML, CSS, JavaScript and jQuery"
+        ],
+        "date": "October 2022<br>October 2023"
+    },
+    {
+        "title": "Designer; <br>Video Editor; <br>Content Creator",
+        "subtitle": "Borderless Company",
+        "description1": "As Borderless’ Creative Specialist, I mainly produced a series of weekly new Video Ads and come up with new ideias for multiple clients to be tested on the clients Ad Accounts on Facebook, Instagram and TikTok, aiming for high levels of Product Conversion. Occasionaly I also created Image Ads for Instagram, Facebook and Google for the same clients. Every so often I designed Landing Pages for the clients’ products in Figma, and implement them using WebFlow. For some clients I also edited Youtube Video Ads with Adobe Premiere, and edited Photoshoots with Adobe Lightroom and Photoshop.",
+        "date": "October 2021<br>February 2023"
+    }
+]

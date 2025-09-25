@@ -1,0 +1,43 @@
+[
+    {
+        "url": "design.php",
+        "title": "Design",
+        "description": "Some text goes in here to describe the section",
+        "tags": [
+            "Prototyping",
+            "UI",
+            "UX",
+            "Branding"
+        ]
+    },
+    {
+        "url": "video.php",
+        "title": "Video",
+        "description": "Some text goes in here to describe the section",
+        "tags": [
+            "Short Cuts",
+            "Montages",
+            "Experimental"
+        ]
+    },
+    {
+        "url": "artwork.php",
+        "title": "Artwork",
+        "description": "Some text goes in here to describe the section",
+        "tags": [
+            "Oil Paint",
+            "Pastels",
+            "Portraits"
+        ]
+    },
+    {
+        "url": "about.php",
+        "title": "CV",
+        "description": "Some text goes in here to describe the section",
+        "tags": [
+            "Work",
+            "Academic Course",
+            "Languages"
+        ]
+    }
+]

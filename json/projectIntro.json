@@ -1,0 +1,13 @@
+[
+    {
+        "templateType":"projectIntro",
+        "thumbnailAlt": "Title",
+        "introDate": "xxxx — xxxx",
+        "type": "Type of Project",
+        "typeDescription": "Description",
+        "coauthor": "[A, B, C]",
+        "designTools": "[A, B, C]",
+        "developTools": "[A, B, C]",
+        "img":"../assets/img/design/projects/anathema/intro.jpg"
+    }
+]
